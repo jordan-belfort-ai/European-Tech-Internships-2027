@@ -1,8 +1,44 @@
 {
-"builtAt": "2026-11-04T09:26:09+00:00",
+"builtAt": "2026-11-04T16:08:02+00:00",
 "days": 14,
 "newgrad": {
 "UK & Ireland": [
+{
+"company": "Frasers Group",
+"title": "IT Service Desk Junior Analyst",
+"location": "Shirebrook, England, United Kingdom",
+"_locs": [
+"Shirebrook, England, United Kingdom"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/FrasersGroup/744000159605529",
+"publishedAt": "2026-11-04T11:09:36.996Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "DXC Technology",
+"title": "Junior Oracle Database and Infrastructure Engineer",
+"location": "UK114 - Belfast,United Kingdom(UK114)",
+"_locs": [
+"UK114 - Belfast,United Kingdom(UK114)"
+],
+"allLocations": [
+"UK114 - Belfast,United Kingdom(UK114)"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/UK114---BelfastUnited-KingdomUK114/Junior-Oracle-Infrastructure---Database-Engineer_51593405",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
 {
 "company": "Resonance",
 "title": "Graduate Applied AI Engineer",
@@ -398,6 +434,25 @@
 "ats": "ashby"
 },
 {
+"company": "EXL",
+"title": "Graduate Business & Talent Coordinator – Data & AI",
+"location": "London, England, United Kingdom",
+"_locs": [
+"London, England, United Kingdom"
+],
+"allLocations": [
+"London, England, United Kingdom"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/17800",
+"publishedAt": "2026-10-30",
+"ats": "oracle"
+},
+{
 "company": "Pfizer",
 "title": "Graduate Data Scientist (Pfizer Ringaskiddy)",
 "location": "Ireland - Cork - Ringaskiddy",
@@ -596,6 +651,25 @@
 "ats": "ashby"
 },
 {
+"company": "DP World",
+"title": "Junior I.T Software Developer",
+"location": "Dublin, Eastern and Midland Region, Ireland",
+"_locs": [
+"Dublin, Eastern and Midland Region, Ireland"
+],
+"allLocations": [
+"Dublin, Eastern and Midland Region, Ireland"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27713",
+"publishedAt": "2026-10-27",
+"ats": "oracle"
+},
+{
 "company": "FTI Consulting",
 "title": "2027 Graduate Scheme, Data, Tech & Transformation",
 "location": "London, United Kingdom",
@@ -635,24 +709,80 @@
 "ats": "workday"
 },
 {
-"company": "Motorola",
-"title": "Graduate Systems Engineer - Mobile MDT",
-"location": "Glasgow, UK (ZUK118)",
+"company": "American Express",
+"title": "Campus - Full Time - AI Engineer - 2027 (UK - Burgess Hill)",
+"location": "BURGESS HILL, WEST SUSSEX, United Kingdom",
 "_locs": [
-"Glasgow, UK (ZUK118)"
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
 ],
 "allLocations": [
-"Glasgow, UK (ZUK118)",
-"United Kingdom Offsite (ZUK99)"
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
 ],
-"remote": null,
+"remote": false,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Systems-Engineer--Guardian-Mobile-_R65951",
+"url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013776",
 "publishedAt": "2026-10-26",
-"ats": "workday"
+"ats": "oracle"
+},
+{
+"company": "American Express",
+"title": "Campus - Full Time - Information Security Engineer - 2027 (UK - London/Brighton/Burgess Hill)",
+"location": "BURGESS HILL, WEST SUSSEX, United Kingdom",
+"_locs": [
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
+],
+"allLocations": [
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013778",
+"publishedAt": "2026-10-26",
+"ats": "oracle"
+},
+{
+"company": "American Express",
+"title": "Campus - Full Time - Software Engineer - 2027 (UK - London)",
+"location": "LONDON, United Kingdom",
+"_locs": [
+"LONDON, United Kingdom"
+],
+"allLocations": [
+"LONDON, United Kingdom"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013782",
+"publishedAt": "2026-10-26",
+"ats": "oracle"
+},
+{
+"company": "American Express",
+"title": "Campus - Full Time - Software Engineer - 2027 (UK - Burgess Hill)",
+"location": "BURGESS HILL, WEST SUSSEX, United Kingdom",
+"_locs": [
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
+],
+"allLocations": [
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013783",
+"publishedAt": "2026-10-26",
+"ats": "oracle"
 },
 {
 "company": "Leonardo",
@@ -752,6 +882,26 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Graduate-Product-Security-Engineer_R0034173",
+"publishedAt": "2026-10-26",
+"ats": "workday"
+},
+{
+"company": "Motorola",
+"title": "Graduate Systems Engineer - Mobile MDT",
+"location": "Glasgow, UK (ZUK118)",
+"_locs": [
+"Glasgow, UK (ZUK118)"
+],
+"allLocations": [
+"Glasgow, UK (ZUK118)",
+"United Kingdom Offsite (ZUK99)"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Systems-Engineer--Guardian-Mobile-_R65951",
 "publishedAt": "2026-10-26",
 "ats": "workday"
 },
@@ -926,6 +1076,26 @@
 "ats": "greenhouse"
 },
 {
+"company": "Computershare",
+"title": "Graduate AI Engineer",
+"location": "Edinburgh, United Kingdom",
+"_locs": [
+"Edinburgh, United Kingdom",
+"Bristol, United Kingdom"
+],
+"allLocations": [
+"Edinburgh, United Kingdom"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/13281",
+"publishedAt": "2026-10-22",
+"ats": "oracle"
+},
+{
 "company": "McKesson",
 "title": "Graduate Cyber Security Analyst (Cyber Academy)",
 "location": "Cork",
@@ -962,47 +1132,104 @@
 "url": "https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Glasgow-GB---Zonda/AI-Engineer-I---Zonda---Glasgow--Scotland--United-Kingdom_R40191",
 "publishedAt": "2026-10-22",
 "ats": "workday"
-},
+}
+],
+"Europe": [
 {
-"company": "Seccl",
-"title": "Junior IT support analyst",
-"location": "Edinburgh",
+"company": "Ajax Systems",
+"title": "Junior QA Engineer",
+"location": "Kyiv",
 "_locs": [
-"Edinburgh"
+"Kyiv"
 ],
 "allLocations": [
-"Edinburgh"
+"Kyiv"
 ],
 "remote": false,
-"salaryMin": 27000.0,
-"salaryMax": 30000.0,
-"salaryCurrency": "GBP",
-"salaryInterval": "year",
-"url": "https://jobs.ashbyhq.com/seccl/873545b0-a001-4aa3-ace9-ffb0d249876c",
-"publishedAt": "2026-10-21T10:37:44.536+00:00",
-"ats": "ashby"
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.lever.co/ajax/6f117a7e-563c-4413-94f9-bb2e3ec750a5",
+"publishedAt": "2026-11-04T13:59:28.158000+00:00",
+"ats": "lever"
 },
 {
-"company": "Anduril Industries",
-"title": "2027 Early Career Software Development in Test",
-"location": "Dublin, Dublin, Ireland",
+"company": "OPTIVEUM sp. z o.o.",
+"title": "Network Engineer – Campus LAN / Cisco Catalyst & Lancom",
+"location": "Wrocław, Poland",
 "_locs": [
-"Dublin, Dublin, Ireland"
+"Wrocław, Poland"
 ],
 "allLocations": [
-"Dublin, Ireland (DUB-01)"
+"Wrocław, Poland",
+"Torun, Poland",
+"Bydgoszcz, Poland",
+"Łódź, Poland",
+"Lublin, Poland",
+"Zielona Gora, Poland",
+"Kraków, Poland",
+"Radom, Poland",
+"Warsaw, Poland",
+"Brzeg, Poland",
+"Opole, Poland",
+"Rzeszow, Poland",
+"Białystok, Poland",
+"Gdańsk, Poland",
+"Gdynia, Poland",
+"Katowice, Poland",
+"Gliwice, Poland",
+"Kielce, Poland",
+"Olsztyn, Poland",
+"Poznań, Poland",
+"Szczecin, Poland",
+"Koszalin, Poland"
+],
+"remote": true,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://career.optiveum.com/jobs/8666144-network-engineer-campus-lan-cisco-catalyst-lancom",
+"publishedAt": "2026-11-04T13:35:12+00:00",
+"ats": "teamtailor"
+},
+{
+"company": "Demo Datos",
+"title": "Junior QA Engineer",
+"location": "Barcelona",
+"_locs": [
+"Barcelona"
+],
+"allLocations": [
+"Barcelona"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://boards.greenhouse.io/andurilindustries/jobs/5270953007?gh_jid=5270953007",
-"publishedAt": "2026-10-21T10:19:51-04:00",
-"ats": "greenhouse"
-}
+"url": "https://pasiona.jobs.personio.de/job/2875401",
+"publishedAt": "2026-11-04T13:15:58+00:00",
+"ats": "personio"
+},
+{
+"company": "Playtech",
+"title": "Junior Data Analyst",
+"location": "Sofia, Bulgaria",
+"_locs": [
+"Sofia, Bulgaria"
 ],
-"Europe": [
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/Playtech/744000159591129",
+"publishedAt": "2026-11-04T10:04:56.794Z",
+"ats": "smartrecruiters"
+},
 {
 "company": "CITECH",
 "title": "Analyste Développeur COBOL Junior – Monétique / Autorisations (H/F)",
@@ -1019,6 +1246,101 @@
 "url": "https://jobs.smartrecruiters.com/CITECH/744000159568248",
 "publishedAt": "2026-11-04T08:25:18.925Z",
 "ats": "smartrecruiters"
+},
+{
+"company": "SCOR",
+"title": "Junior Data Analyst",
+"location": "Bucuresti - Ilfov, Romania",
+"_locs": [
+"Bucuresti - Ilfov, Romania"
+],
+"allLocations": [
+"Bucuresti - Ilfov, Romania"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5507",
+"publishedAt": "2026-11-04",
+"ats": "oracle"
+},
+{
+"company": "Airbus",
+"title": "SNR 2027 - Security & Gouvernance (ALL GENDER)",
+"location": "Nantes Area",
+"_locs": [
+"Nantes Area"
+],
+"allLocations": [
+"Nantes Area"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Nantes-Area/SNR-2027---Security---Gouvernance--ALL-GENDER-_JR10454435",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "Junior Software Platform Integration Engineer",
+"location": "Getafe Area",
+"_locs": [
+"Getafe Area"
+],
+"allLocations": [
+"Getafe Area"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Senior-Software-Platform-Integration-Engineer_JR10430082-1",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Accenture",
+"title": "Junior Java Developer",
+"location": "Riga",
+"_locs": [
+"Riga"
+],
+"allLocations": [
+"Riga"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Riga/Junior-Java-Developer_R00369294",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Mastercard",
+"title": "Junior Network Provisioning Engineer",
+"location": "Waterloo, Belgium",
+"_locs": [
+"Waterloo, Belgium"
+],
+"allLocations": [
+"Waterloo, Belgium"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785",
+"publishedAt": "2026-11-04",
+"ats": "workday"
 },
 {
 "company": "Leonardo",
@@ -1097,25 +1419,8 @@
 "ats": "ashby"
 },
 {
-"company": "Delivery Hero",
-"title": "Junior Financial Data Analyst",
-"location": "Barcelona, Spain",
-"_locs": [
-"Barcelona, Spain"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/DeliveryHero/744000159442150",
-"publishedAt": "2026-11-03T16:38:22.979Z",
-"ats": "smartrecruiters"
-},
-{
 "company": "Alice & Bob",
-"title": "Junior Quantum Academy Coordindator M/F",
+"title": "Junior Quantum Academy Coordinator M/F",
 "location": "Paris",
 "_locs": [
 "Paris"
@@ -1425,6 +1730,44 @@
 "url": "https://next.tuolavoro.com/jobs/8647758-addetto-a-back-office-commerciale-junior-software",
 "publishedAt": "2026-11-02T05:02:19+00:00",
 "ats": "teamtailor"
+},
+{
+"company": "Honeywell",
+"title": "Cyber Security Architect/Engineer I (m/f/d)",
+"location": "Bucuresti, Romania",
+"_locs": [
+"Bucuresti, Romania"
+],
+"allLocations": [
+"Bucuresti, Romania"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159441",
+"publishedAt": "2026-11-02",
+"ats": "oracle"
+},
+{
+"company": "Honeywell",
+"title": "Junior Software Engineer (m/f/d) - hybrid",
+"location": "Gdansk, Pomorskie, Poland",
+"_locs": [
+"Gdansk, Pomorskie, Poland"
+],
+"allLocations": [
+"Gdansk, Pomorskie, Poland"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161294",
+"publishedAt": "2026-11-02",
+"ats": "oracle"
 },
 {
 "company": "NXP Semiconductors",
@@ -1741,6 +2084,25 @@
 "url": "https://job-boards.eu.greenhouse.io/ebury/jobs/5021937101",
 "publishedAt": "2026-10-30T05:41:16-04:00",
 "ats": "greenhouse"
+},
+{
+"company": "WTW",
+"title": "Junior AI Engineer",
+"location": "Lisboa, Lisboa, Portugal",
+"_locs": [
+"Lisboa, Lisboa, Portugal"
+],
+"allLocations": [
+"Lisboa, Lisboa, Portugal"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://eedu.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1003/job/202607008",
+"publishedAt": "2026-10-30",
+"ats": "oracle"
 },
 {
 "company": "ABB",
@@ -2270,25 +2632,6 @@
 "ats": "ashby"
 },
 {
-"company": "Ajax Systems",
-"title": "Junior Python Developer in test (QA Server Department)",
-"location": "Kyiv",
-"_locs": [
-"Kyiv"
-],
-"allLocations": [
-"Kyiv"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.lever.co/ajax/fc34ca9e-d59f-4110-b7a0-bbeb6afdfe2c",
-"publishedAt": "2026-10-27T14:15:41.220000+00:00",
-"ats": "lever"
-},
-{
 "company": "PA Consulting",
 "title": "Junior Consultants (student) within Data, AI & Technology – start February 2027 ",
 "location": "Copenhagen, Denmark",
@@ -2323,23 +2666,6 @@
 "ats": "smartrecruiters"
 },
 {
-"company": "Deutsche Telekom IT Solutions",
-"title": "Junior Engineer Backend T Cloud Public (REF5769K)",
-"location": "Budapest, Debrecen, Pécs, Szeged, Hungary",
-"_locs": [
-"Budapest, Debrecen, Pécs, Szeged, Hungary"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/DeutscheTelekomITSolutions/744000158034582",
-"publishedAt": "2026-10-27T12:40:54.690Z",
-"ats": "smartrecruiters"
-},
-{
 "company": "Sia",
 "title": "Junior Software Engineer",
 "location": "Paris, IDF, France",
@@ -2355,25 +2681,6 @@
 "url": "https://jobs.smartrecruiters.com/Sia/744000158018397",
 "publishedAt": "2026-10-27T11:13:03.794Z",
 "ats": "smartrecruiters"
-},
-{
-"company": "DXC Technology",
-"title": "Junior Angular Developer",
-"location": "BGR - SOFIA",
-"_locs": [
-"BGR - SOFIA"
-],
-"allLocations": [
-"BGR - SOFIA"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/BGR---SOFIA/Junior-Angular-Developer_51584468",
-"publishedAt": "2026-10-27",
-"ats": "workday"
 },
 {
 "company": "Netcompany",
@@ -2447,6 +2754,25 @@
 "url": "https://jobs.axi.be/o/junior-netwerk-en-security-engineer",
 "publishedAt": "2026-10-26 10:04:28 UTC",
 "ats": "recruitee"
+},
+{
+"company": "Fortinet",
+"title": "Junior Systems Engineer",
+"location": "Zürich, ZH, Switzerland",
+"_locs": [
+"Zürich, ZH, Switzerland"
+],
+"allLocations": [
+"Zürich, ZH, Switzerland"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/24761",
+"publishedAt": "2026-10-26",
+"ats": "oracle"
 },
 {
 "company": "Freudenberg Group",
@@ -2740,13 +3066,17 @@
 "url": "https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gdask/Junior-Cybersecurity-Specialist_741157WD",
 "publishedAt": "2026-10-22",
 "ats": "workday"
+}
+]
 },
+"intern": {
+"UK & Ireland": [
 {
-"company": "ALTEN",
-"title": "Junior Software Entwickler C/C++ (all gender)",
-"location": "Stuttgart, BW, Germany",
+"company": "Bosch Group",
+"title": "Undergraduate Placement Year 2027 – Data Privacy Intern",
+"location": "Worcester, England, United Kingdom",
 "_locs": [
-"Stuttgart, BW, Germany"
+"Worcester, England, United Kingdom"
 ],
 "allLocations": null,
 "remote": false,
@@ -2754,50 +3084,69 @@
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/ALTEN/744000156821194",
-"publishedAt": "2026-10-21T14:29:38.599Z",
+"url": "https://jobs.smartrecruiters.com/BoschGroup/744000159640003",
+"publishedAt": "2026-11-04T14:03:20.060Z",
 "ats": "smartrecruiters"
 },
 {
-"company": "Open-Xchange GmbH",
-"title": "Junior Systems Engineer (m/f/d)",
-"location": "Germany - Nordrhein-Westfalen",
+"company": "Roku",
+"title": "Software Engineering Internship Program (Summer 2027)",
+"location": "Manchester, United Kingdom",
 "_locs": [
-"Germany - Nordrhein-Westfalen"
+"Manchester, United Kingdom",
+"Cambridge, United Kingdom"
 ],
 "allLocations": [
-"Germany - Nordrhein-Westfalen"
+"Manchester, United Kingdom"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://open-xchange-gmbh.jobs.personio.de/job/2853204",
-"publishedAt": "2026-10-21T14:13:55+00:00",
-"ats": "personio"
+"url": "https://www.weareroku.com/jobs/8345967?gh_jid=8345967",
+"publishedAt": "2026-11-04T06:59:03-05:00",
+"ats": "greenhouse"
 },
 {
-"company": "Renesas Electronics",
-"title": "Associate Software Engineer",
-"location": "Kallithea, Athens, Greece",
+"company": "Roku",
+"title": "AI Engineering Internship Program (Summer 2027)",
+"location": "Manchester, United Kingdom",
 "_locs": [
-"Kallithea, Athens, Greece"
+"Manchester, United Kingdom",
+"Cambridge, United Kingdom"
 ],
-"allLocations": null,
-"remote": false,
+"allLocations": [
+"Manchester, United Kingdom"
+],
+"remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000156795325",
-"publishedAt": "2026-10-21T13:03:23.314Z",
-"ats": "smartrecruiters"
-}
-]
+"url": "https://www.weareroku.com/jobs/8345954?gh_jid=8345954",
+"publishedAt": "2026-11-04T05:10:25-05:00",
+"ats": "greenhouse"
 },
-"intern": {
-"UK & Ireland": [
+{
+"company": "Citco",
+"title": "Private Equity IT Intern",
+"location": "Dublin, Co. Dublin, Ireland",
+"_locs": [
+"Dublin, Co. Dublin, Ireland"
+],
+"allLocations": [
+"Dublin, Co. Dublin, Ireland"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20411",
+"publishedAt": "2026-11-04",
+"ats": "oracle"
+},
 {
 "company": "GE Vernova",
 "title": "Software Engineering Intern",
@@ -2830,25 +3179,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Product-Security-Degree-Apprentice_R0034558",
-"publishedAt": "2026-11-03",
-"ats": "workday"
-},
-{
-"company": "Tencent",
-"title": "LLM & Agent Research Intern",
-"location": "United Kingdom-London",
-"_locs": [
-"United Kingdom-London"
-],
-"allLocations": [
-"United Kingdom-London"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/LLM---Agent-Research-Intern_R108285",
 "publishedAt": "2026-11-03",
 "ats": "workday"
 },
@@ -2944,6 +3274,25 @@
 "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8926633002",
 "publishedAt": "2026-11-02T08:39:14-05:00",
 "ats": "greenhouse"
+},
+{
+"company": "Honeywell",
+"title": "Embedded Software Intern (m/f/d)",
+"location": "Horsham, West Sussex, United Kingdom",
+"_locs": [
+"Horsham, West Sussex, United Kingdom"
+],
+"allLocations": [
+"Horsham, West Sussex, United Kingdom"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158937",
+"publishedAt": "2026-11-02",
+"ats": "oracle"
 },
 {
 "company": "Barclays",
@@ -3212,6 +3561,82 @@
 "ats": "workable"
 },
 {
+"company": "American Express",
+"title": "Campus - Internship Programme - Undergraduate - AI Engineer - 2027 (UK - Burgess Hill)",
+"location": "BURGESS HILL, WEST SUSSEX, United Kingdom",
+"_locs": [
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
+],
+"allLocations": [
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013756",
+"publishedAt": "2026-10-26",
+"ats": "oracle"
+},
+{
+"company": "American Express",
+"title": "Campus - Internship Programme - Undergraduate - Information Security Engineer - 2027 (UK - Burgess Hill)",
+"location": "BURGESS HILL, WEST SUSSEX, United Kingdom",
+"_locs": [
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
+],
+"allLocations": [
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013761",
+"publishedAt": "2026-10-26",
+"ats": "oracle"
+},
+{
+"company": "American Express",
+"title": "Campus - Internship Programme - Undergraduate - Software Engineer - 2027 (UK - London)",
+"location": "LONDON, United Kingdom",
+"_locs": [
+"LONDON, United Kingdom"
+],
+"allLocations": [
+"LONDON, United Kingdom"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013769",
+"publishedAt": "2026-10-26",
+"ats": "oracle"
+},
+{
+"company": "American Express",
+"title": "Campus - Internship Programme - Undergraduate - Software Engineer - 2027 (UK - Burgess Hill)",
+"location": "BURGESS HILL, WEST SUSSEX, United Kingdom",
+"_locs": [
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
+],
+"allLocations": [
+"BURGESS HILL, WEST SUSSEX, United Kingdom"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013771",
+"publishedAt": "2026-10-26",
+"ats": "oracle"
+},
+{
 "company": "FTI Consulting",
 "title": "2027 Summer Internship, Cybersecurity",
 "location": "London, United Kingdom",
@@ -3248,25 +3673,6 @@
 "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771",
 "publishedAt": "2026-10-26",
 "ats": "workday"
-},
-{
-"company": "MDB General Referrals",
-"title": "2027 - Summer Software Engineer Intern, Dublin",
-"location": "Dublin",
-"_locs": [
-"Dublin"
-],
-"allLocations": [
-"Dublin"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://job-boards.greenhouse.io/mdbgeneralreferrals/jobs/8303225",
-"publishedAt": "2026-10-23T08:36:52-04:00",
-"ats": "greenhouse"
 },
 {
 "company": "MongoDB",
@@ -3401,29 +3807,395 @@
 "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Software-Engineering-Degree-Apprentice_R0034281",
 "publishedAt": "2026-10-22",
 "ats": "workday"
+}
+],
+"Europe": [
+{
+"company": "Wavestone",
+"title": "AI Strategy & Business Transformation - Stage de fin d'études (H/F)",
+"location": "Puteaux, IDF, France",
+"_locs": [
+"Puteaux, IDF, France"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/Wavestone1/744000159667949",
+"publishedAt": "2026-11-04T15:42:14.697Z",
+"ats": "smartrecruiters"
 },
 {
-"company": "QUANTUM MOTION TECHNOLOGIES LIMITED",
-"title": "Quantum Theory Internship Programme 2027",
-"location": "London, UK",
+"company": "Informa Group Plc.",
+"title": "Data Analyst Internship",
+"location": "Amsterdam, NH, Netherlands",
 "_locs": [
-"London, UK"
+"Amsterdam, NH, Netherlands"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159666020",
+"publishedAt": "2026-11-04T15:33:17.251Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Brevo",
+"title": "Forward Deployed Engineer Intern",
+"location": "Paris, France",
+"_locs": [
+"Paris, France"
 ],
 "allLocations": [
-"London, UK",
-"Oxford, UK"
+"Paris, France"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.lever.co/brevo/68d1927e-c983-49e3-8f17-ac2576dcb5ae",
+"publishedAt": "2026-11-04T15:27:53.317000+00:00",
+"ats": "lever"
+},
+{
+"company": "Brevo",
+"title": "AI RevOps Analyst Intern",
+"location": "Paris, France",
+"_locs": [
+"Paris, France"
+],
+"allLocations": [
+"Paris, France"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.lever.co/brevo/3b67a6d7-a059-4906-a189-60225853c25f",
+"publishedAt": "2026-11-04T15:16:59.378000+00:00",
+"ats": "lever"
+},
+{
+"company": "Bosch Group",
+"title": "Working student Deep Learning & Data Science  ",
+"location": "Cluj-Napoca, CJ, Romania",
+"_locs": [
+"Cluj-Napoca, CJ, Romania"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/BoschGroup/744000159660181",
+"publishedAt": "2026-11-04T15:16:51.554Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Bosch Group",
+"title": "Working Student Embedded ADAS Software",
+"location": "Cluj-Napoca, CJ, Romania",
+"_locs": [
+"Cluj-Napoca, CJ, Romania"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/BoschGroup/744000159657425",
+"publishedAt": "2026-11-04T15:12:16.141Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Sensmore",
+"title": "Robotics Operator - Working Student (20hrs / week)",
+"location": "Berlin Office",
+"_locs": [
+"Berlin Office"
+],
+"allLocations": [
+"Berlin Office"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.ashbyhq.com/sensmore/b03231e7-dcb7-45d7-894d-b1252316ed64",
+"publishedAt": "2026-11-04T14:05:36.792+00:00",
+"ats": "ashby"
+},
+{
+"company": "Ubisoft",
+"title": "Mobile Data Analyst Assistant – Stage (6 mois) Janvier 2027 (F/H/NB)",
+"location": "Paris, IDF, France",
+"_locs": [
+"Paris, IDF, France"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/Ubisoft2/744000159641259",
+"publishedAt": "2026-11-04T14:04:08.734Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "CERN",
+"title": "Short Term Internship 2027 - Facilities & Infrastructure Management",
+"location": "Geneva, GE, Switzerland",
+"_locs": [
+"Geneva, GE, Switzerland"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/CERN/744000159636901",
+"publishedAt": "2026-11-04T13:49:51.549Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Talan",
+"title": "Développeur Java F/H",
+"location": "Lyon, Auvergne-Rhône-Alpes, France",
+"_locs": [
+"Lyon, Auvergne-Rhône-Alpes, France"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/Talan/744000159637106",
+"publishedAt": "2026-11-04T13:47:07.521Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Nexthink",
+"title": "Software Engineer (Intern)",
+"location": "Madrid, MD, Spain",
+"_locs": [
+"Madrid, MD, Spain"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/Nexthink/744000159632929",
+"publishedAt": "2026-11-04T13:29:58.374Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "ALTEN",
+"title": "Stage Innovation : Ingénieur Computer Vision",
+"location": "Sèvres, IDF, France",
+"_locs": [
+"Sèvres, IDF, France"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/ALTEN/744000159631039",
+"publishedAt": "2026-11-04T13:26:51.440Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Sopra Steria",
+"title": "Stage - Analyste Threat Intelligence - Sciences Politiques - Cybersécurité - Toulouse",
+"location": "Colomiers, Occitanie, France",
+"_locs": [
+"Colomiers, Occitanie, France"
+],
+"allLocations": null,
+"remote": true,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159628661",
+"publishedAt": "2026-11-04T13:20:52.100Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Sopra Steria",
+"title": "Stage - Analyste Threat Intelligence - Sciences Politiques - Cybersécurité - Ile-de-France",
+"location": "Courbevoie, IDF, France",
+"_locs": [
+"Courbevoie, IDF, France"
+],
+"allLocations": null,
+"remote": true,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159630588",
+"publishedAt": "2026-11-04T13:20:25.658Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "CERN",
+"title": "Short Term Internship 2027 - Data Science, AI & Analytics",
+"location": "Geneva, GE, Switzerland",
+"_locs": [
+"Geneva, GE, Switzerland"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/CERN/744000159629244",
+"publishedAt": "2026-11-04T13:16:16.721Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "WAREMA Renkhoff SE",
+"title": "Duales Studium Data Science und Künstliche Intelligenz 2027 (DHBW)",
+"location": "Marktheidenfeld, BY, Germany",
+"_locs": [
+"Marktheidenfeld, BY, Germany"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/WAREMARenkhoffSE/744000159624111",
+"publishedAt": "2026-11-04T12:55:30.207Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Bosch Group",
+"title": "Estágio Extracurricular: Planeamento Supply Chain & Data Analytics para a região EMEA (f/m/div.)",
+"location": "Aveiro, Portugal",
+"_locs": [
+"Aveiro, Portugal"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/BoschGroup/744000159587355",
+"publishedAt": "2026-11-04T09:58:24.825Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Zenjob",
+"title": "Werkstudent Commercial Enablement - AI & Automation (German-Speaking) (f/m/d)",
+"location": "Berlin",
+"_locs": [
+"Berlin"
+],
+"allLocations": [
+"Berlin"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.ashbyhq.com/zenjob/c7deb3e8-27f5-40c6-9a6f-e2e2a5263000",
+"publishedAt": "2026-11-04T09:55:31.786+00:00",
+"ats": "ashby"
+},
+{
+"company": "Symbio",
+"title": "Stagiaire Ingénieur Logiciel Embarqué H/F",
+"location": "Saint-Fons, France",
+"_locs": [
+"Saint-Fons, France"
+],
+"allLocations": [
+"Saint-Fons, France"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://quantummotion.jobs.personio.de/job/2853487",
-"publishedAt": "2026-10-21T15:23:42+00:00",
-"ats": "personio"
-}
+"url": "https://jobs.symbio-career.one/jobs/8663394-stagiaire-ingenieur-logiciel-embarque-h-f",
+"publishedAt": "2026-11-04T09:19:01+00:00",
+"ats": "teamtailor"
+},
+{
+"company": "Talan",
+"title": "Développeur React Native F/H",
+"location": "Lyon, Auvergne-Rhône-Alpes, France",
+"_locs": [
+"Lyon, Auvergne-Rhône-Alpes, France"
 ],
-"Europe": [
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/Talan/744000159578578",
+"publishedAt": "2026-11-04T09:16:13.042Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Sopra Steria",
+"title": "Stage - Ingénieur Full Stack  - Services Financiers - Brest",
+"location": "Guipavas, Bretagne, France",
+"_locs": [
+"Guipavas, Bretagne, France"
+],
+"allLocations": null,
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159576625",
+"publishedAt": "2026-11-04T09:15:44.721Z",
+"ats": "smartrecruiters"
+},
+{
+"company": "Alan",
+"title": "Security Associate - Internship",
+"location": "Paris",
+"_locs": [
+"Paris"
+],
+"allLocations": [
+"Paris"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.ashbyhq.com/alan/a725479a-de87-45d9-afe6-e3273dc6d704",
+"publishedAt": "2026-11-04T09:08:41.970+00:00",
+"ats": "ashby"
+},
 {
 "company": "Sopra Steria",
 "title": "Stage - Ingénieur Full Stack - Services Financiers - Nantes ",
@@ -3457,6 +4229,25 @@
 "url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159575269",
 "publishedAt": "2026-11-04T09:04:41.953Z",
 "ats": "smartrecruiters"
+},
+{
+"company": "Bettermile",
+"title": "Working Student AI Automation & Support (d/f/m)",
+"location": "Better Place, Oranienstraße 183, Berlin",
+"_locs": [
+"Better Place, Oranienstraße 183, Berlin"
+],
+"allLocations": [
+"Better Place, Oranienstraße 183, Berlin"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://jobs.ashbyhq.com/bettermile/63b54388-02f7-482b-804a-ef764bb119e9",
+"publishedAt": "2026-11-04T08:59:46.773+00:00",
+"ats": "ashby"
 },
 {
 "company": "Vocca",
@@ -3603,6 +4394,101 @@
 "ats": "greenhouse"
 },
 {
+"company": "Erste Digital GmbH",
+"title": "Internship IT Workplace Support  (all humans)",
+"location": "Vienna, Wien, Austria",
+"_locs": [
+"Vienna, Wien, Austria"
+],
+"allLocations": [
+"Vienna"
+],
+"remote": false,
+"salaryMin": 3175.0,
+"salaryMax": null,
+"salaryCurrency": "EUR",
+"salaryInterval": "month",
+"url": "https://erstedigital.recruitee.com/o/internship-it-workplace-support-all-humans",
+"publishedAt": "2026-11-04 14:36:14 UTC",
+"ats": "recruitee"
+},
+{
+"company": "Airbus",
+"title": "STAGE 2027 – Ingénieur Développement FPGA & Automatisation de tests (H/F)",
+"location": "Paris Area",
+"_locs": [
+"Paris Area"
+],
+"allLocations": [
+"Paris Area"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/STAGE-2027---Ingnieur-Dveloppement-FPGA---Automatisation-de-tests--H-F-_JR10437851",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "Stage 2027 - Stagiaire en Développement d'un robot de test pour applications smartphone et web (F/H)",
+"location": "Paris Area",
+"_locs": [
+"Paris Area"
+],
+"allLocations": [
+"Paris Area"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Paris-Area/Stage-2027---Stagiaire-en-Dveloppement-d-un-robot-de-test-pour-applications-smartphone-et-web--F-H-_JR10445365",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "STAGE 2027 - Cybersécurité (H/F)",
+"location": "Marseille Area",
+"_locs": [
+"Marseille Area"
+],
+"allLocations": [
+"Marseille Area"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Marseille-Area/STAGE-2027---Cyberscurit--H-F-_JR10444451",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Airbus",
+"title": "Stage 2027- Energy Management : Analyse de données, performance énergétique et Réglementation( h / f)",
+"location": "Marseille Area",
+"_locs": [
+"Marseille Area"
+],
+"allLocations": [
+"Marseille Area"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Marseille-Area/Stage-2027--Energy-Management---Analyse-de-donnes--performance-nergtique-et-Rglementation--h---f-_JR10445474",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
 "company": "Airbus",
 "title": "STAGE 2027 - Assurance Qualité et  Analyse de données (ALL GENDER)",
 "location": "Nantes Area",
@@ -3618,6 +4504,101 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Nantes-Area/STAGE-2027---Assurance-Qualit-et--Analyse-de-donnes--ALL-GENDER-_JR10446647",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Air Liquide",
+"title": "Stage - Business & Data Analyst - Achats Europe H/F",
+"location": "France, Paris",
+"_locs": [
+"France, Paris"
+],
+"allLocations": [
+"France, Paris"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Business---Data-Analyst---Achats-Europe-H-F_R10104219",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Valeo",
+"title": "Stage - Développeur mobile Unity - C#",
+"location": "Créteil",
+"_locs": [
+"Créteil"
+],
+"allLocations": [
+"Créteil"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/Stage---Dveloppeur-mobile-Unity---C-_REQ2026082997",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Ecolab",
+"title": "IT Trainee",
+"location": "ESP - Catalonia - Barcelona",
+"_locs": [
+"ESP - Catalonia - Barcelona"
+],
+"allLocations": [
+"ESP - Catalonia - Barcelona"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/ESP---Catalonia---Barcelona/IT-Trainee_R00302789",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Sanofi",
+"title": "Analytics and PowerBI Development Intern",
+"location": "Praha",
+"_locs": [
+"Praha"
+],
+"allLocations": [
+"Praha"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Praha/Analytics-and-PowerBI-Development-Intern_R2868855",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Zeiss",
+"title": "Werkstudent - Machine Learning & datenbasierte Prozessmodellierung (m/w/x)",
+"location": "Oberkochen",
+"_locs": [
+"Oberkochen"
+],
+"allLocations": [
+"Oberkochen"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent---Machine-Learning---datenbasierte-Prozessmodellierung--m-w-x-_JR_1054650",
 "publishedAt": "2026-11-04",
 "ats": "workday"
 },
@@ -3656,6 +4637,82 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://nxp.wd3.myworkdayjobs.com/careers/job/Hamburg/Working-Student--f-m-d--AI-Enabled-Knowledge-and-Work-Systems_R-10064063",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "ING",
+"title": "Praktikant Data Governance, Privacy & AI Regulation (w/m/d)",
+"location": "Frankfurt",
+"_locs": [
+"Frankfurt"
+],
+"allLocations": [
+"Frankfurt"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/Frankfurt/Praktikant-Data-Governance--Privacy---AI-Regulation--w-m-d-_REQ-10123866",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "ASML",
+"title": "Cyber Security | Information Management internship: security assurance & strategy",
+"location": "Veldhoven, Netherlands",
+"_locs": [
+"Veldhoven, Netherlands"
+],
+"allLocations": [
+"Veldhoven, Netherlands"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Cyber-Security---Information-Management-internship--security-assurance---strategy_J-00355033",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "Michelin",
+"title": "Stage - Data Analyst orienté Data Wrangling et Visualisation (F/H)",
+"location": "Clermont-Ferrand",
+"_locs": [
+"Clermont-Ferrand"
+],
+"allLocations": [
+"Clermont-Ferrand"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Stage---Data-Analyst-orient-Data-Wrangling-et-Visualisation--F-H-_R-2026034346",
+"publishedAt": "2026-11-04",
+"ats": "workday"
+},
+{
+"company": "LEGO",
+"title": "Embedded Systems Engineering Internship",
+"location": "Billund Project House",
+"_locs": [
+"Billund Project House"
+],
+"allLocations": [
+"Billund Project House"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://lego.wd103.myworkdayjobs.com/LEGO_External/job/Billund-Project-House/Embedded-Systems-Engineering-Internship_0000039992-1",
 "publishedAt": "2026-11-04",
 "ats": "workday"
 },
@@ -3955,92 +5012,6 @@
 "ats": "smartrecruiters"
 },
 {
-"company": "Bosch Group",
-"title": "Werkstudent im Bereich Automotive Security (w/m/div.)",
-"location": "Stuttgart, BW, Germany",
-"_locs": [
-"Stuttgart, BW, Germany"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/BoschGroup/744000159338949",
-"publishedAt": "2026-11-03T09:42:49.945Z",
-"ats": "smartrecruiters"
-},
-{
-"company": "Bosch Group",
-"title": "Working Student in Automotive Security (f/m/div.)",
-"location": "Stuttgart, BW, Germany",
-"_locs": [
-"Stuttgart, BW, Germany"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/BoschGroup/744000159333431",
-"publishedAt": "2026-11-03T09:39:35.416Z",
-"ats": "smartrecruiters"
-},
-{
-"company": "Bosch Group",
-"title": "Pflichtpraktikum Data Management Fertigung",
-"location": "Abstatt, BW, Germany",
-"_locs": [
-"Abstatt, BW, Germany",
-"Immenstadt im Allgäu, BY, Germany"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/BoschGroup/744000159335058",
-"publishedAt": "2026-11-03T09:27:11.896Z",
-"ats": "smartrecruiters"
-},
-{
-"company": "Sopra Steria",
-"title": "Stage – Solution de sécurité (SIEM) - Cybersécurité – Toulouse",
-"location": "Colomiers, Occitanie, France",
-"_locs": [
-"Colomiers, Occitanie, France"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159329148",
-"publishedAt": "2026-11-03T09:03:02.362Z",
-"ats": "smartrecruiters"
-},
-{
-"company": "Informa Group Plc.",
-"title": "Data Analyst Internship",
-"location": "Amsterdam, NH, Netherlands",
-"_locs": [
-"Amsterdam, NH, Netherlands"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/InformaGroupPlc/744000159321820",
-"publishedAt": "2026-11-03T08:29:19.934Z",
-"ats": "smartrecruiters"
-},
-{
 "company": "Aumovio",
 "title": "Abschlussarbeit (Bachelor / Master) - Specialist AI Vision & Defect Analysis ",
 "location": "Ingolstadt, BY, Germany",
@@ -4075,44 +5046,6 @@
 "ats": "smartrecruiters"
 },
 {
-"company": "IONOS DE",
-"title": "Werkstudent (w/m/d) - Software Development Support",
-"location": "Hinterm Hauptbahnhof 3-5, 76137 Karlsruhe",
-"_locs": [
-"Hinterm Hauptbahnhof 3-5, 76137 Karlsruhe"
-],
-"allLocations": [
-"IONOS SE"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://job-boards.eu.greenhouse.io/ionos/jobs/5013564101",
-"publishedAt": "2026-11-03T04:16:08-05:00",
-"ats": "greenhouse"
-},
-{
-"company": "IONOS EN",
-"title": "Working Student (f/m/d) - Software Development Software",
-"location": "Hinterm Hauptbahnhof 3-5, 76137 Karlsruhe",
-"_locs": [
-"Hinterm Hauptbahnhof 3-5, 76137 Karlsruhe"
-],
-"allLocations": [
-"IONOS SE"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://job-boards.eu.greenhouse.io/ionos2/jobs/5013565101",
-"publishedAt": "2026-11-03T04:16:07-05:00",
-"ats": "greenhouse"
-},
-{
 "company": "KEYES",
 "title": "Stage - AI Product Management and Adoption",
 "location": "Herstal, Liège, Belgium",
@@ -4133,25 +5066,6 @@
 },
 {
 "company": "Airbus",
-"title": "STAGE 2027 - Analyste des données en Supply Chain et Logistique (F/H)",
-"location": "Toulouse Area",
-"_locs": [
-"Toulouse Area"
-],
-"allLocations": [
-"Toulouse Area"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/STAGE-2027---Analyste-des-donnes-en-Supply-Chain-et-Logistique--F-H-_JR10440023",
-"publishedAt": "2026-11-03",
-"ats": "workday"
-},
-{
-"company": "Airbus",
 "title": "STAGE 2027 - Analyse de données et Dashboarding Qualité (ALL GENDER)",
 "location": "Nantes Area",
 "_locs": [
@@ -4166,63 +5080,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Nantes-Area/STAGE-2027---Stage-en-Assurance-Qualit-et-Analyse-de-donnes--ALL-GENDER-_JR10441523",
-"publishedAt": "2026-11-03",
-"ats": "workday"
-},
-{
-"company": "Airbus",
-"title": "Working Student (d/f/m) - Software Development in the area of Mass Properties",
-"location": "Manching",
-"_locs": [
-"Manching"
-],
-"allLocations": [
-"Manching"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Manching/Working-Student--d-f-m--in-the-area-of-Mass-Properties_JR10446403",
-"publishedAt": "2026-11-03",
-"ats": "workday"
-},
-{
-"company": "Airbus",
-"title": "STAGE 2027 - DevOps Junior / Intégration de Solutions Collaboratives (ALL GENDER)",
-"location": "Toulouse Area",
-"_locs": [
-"Toulouse Area"
-],
-"allLocations": [
-"Toulouse Area"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/STAGE-2027---Informatique---Dveloppeur---Outils-Collaboratifs--ALL-GENDER-_JR10445469",
-"publishedAt": "2026-11-03",
-"ats": "workday"
-},
-{
-"company": "Airbus",
-"title": "Werkstudent (d/m/w), (Generative) Softwareentwicklung & MBSE – Fokus Java",
-"location": "Ulm Area",
-"_locs": [
-"Ulm Area"
-],
-"allLocations": [
-"Ulm Area"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Ulm-Area/Werkstudent--d-m-w--Softwareentwicklung---MBSE--m-w-d----Fokus-Java--UML-SysML---Tool-Migration_JR10445301",
 "publishedAt": "2026-11-03",
 "ats": "workday"
 },
@@ -4360,25 +5217,6 @@
 "ats": "workday"
 },
 {
-"company": "Analog Devices",
-"title": "Embedded Software Engineer Intern",
-"location": "Romania, Cluj-Napoca, Decembrie",
-"_locs": [
-"Romania, Cluj-Napoca, Decembrie"
-],
-"allLocations": [
-"Romania, Cluj-Napoca, Decembrie"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineer-Intern_R267116",
-"publishedAt": "2026-11-03",
-"ats": "workday"
-},
-{
 "company": "Zeiss",
 "title": "Praktikum/Praxissemester | Softwareentwicklung | Inbetriebnahme- und Servicesoftware (m/w/x)",
 "location": "Oberkochen",
@@ -4394,6 +5232,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Praktikum-Praxissemester---Softwareentwicklung---Inbetriebnahme--und-Servicesoftware--m-w-x-_JR_1051684-3",
+"publishedAt": "2026-11-03",
+"ats": "workday"
+},
+{
+"company": "Analog Devices",
+"title": "Embedded Software Engineer Intern",
+"location": "Romania, Cluj-Napoca, Decembrie",
+"_locs": [
+"Romania, Cluj-Napoca, Decembrie"
+],
+"allLocations": [
+"Romania, Cluj-Napoca, Decembrie"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineer-Intern_R267116",
 "publishedAt": "2026-11-03",
 "ats": "workday"
 },
@@ -4771,40 +5628,6 @@
 "ats": "ashby"
 },
 {
-"company": "Sopra Steria",
-"title": "Stage - Développeur/euse Java - Lyon",
-"location": "Lyon, Auvergne-Rhône-Alpes, France",
-"_locs": [
-"Lyon, Auvergne-Rhône-Alpes, France"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159153669",
-"publishedAt": "2026-11-02T14:22:49.785Z",
-"ats": "smartrecruiters"
-},
-{
-"company": "Sopra Steria",
-"title": "Stage – Développeur(se) Java / Cobol - Services Financiers - Nantes",
-"location": "Nantes, Pays de la Loire, France",
-"_locs": [
-"Nantes, Pays de la Loire, France"
-],
-"allLocations": null,
-"remote": true,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/SopraSteria1/744000159151594",
-"publishedAt": "2026-11-02T14:14:54.062Z",
-"ats": "smartrecruiters"
-},
-{
 "company": "Stanley/Stella BE",
 "title": "Supply Chain & Data Analyst Intern",
 "location": "Belgium (HQ)",
@@ -4934,6 +5757,25 @@
 "ats": "recruitee"
 },
 {
+"company": "Dell Technologies",
+"title": "Data & AI Intern",
+"location": "Bratislava, Bratislavsky kraj, Slovakia",
+"_locs": [
+"Bratislava, Bratislavsky kraj, Slovakia"
+],
+"allLocations": [
+"Bratislava, Bratislavsky kraj, Slovakia"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300848",
+"publishedAt": "2026-11-02",
+"ats": "oracle"
+},
+{
 "company": "RTX",
 "title": "STAGE – Tests de cybersécurité assistés par IA",
 "location": "FR-OCC-BLAGNAC-BAT CASS ~ 4 Ave Didier Daurat ~ DAURAT",
@@ -5011,25 +5853,6 @@
 "ats": "workday"
 },
 {
-"company": "Ecolab",
-"title": "Power BI & Data Analytics Trainee",
-"location": "ESP - Catalonia - Barcelona",
-"_locs": [
-"ESP - Catalonia - Barcelona"
-],
-"allLocations": [
-"ESP - Catalonia - Barcelona"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/ESP---Catalonia---Barcelona/Project-Engineer-Trainee_R00306859",
-"publishedAt": "2026-11-02",
-"ats": "workday"
-},
-{
 "company": "Valeo",
 "title": "Technical Trainee - Data Operator",
 "location": "Prague",
@@ -5049,6 +5872,25 @@
 "ats": "workday"
 },
 {
+"company": "Ecolab",
+"title": "Power BI & Data Analytics Trainee",
+"location": "ESP - Catalonia - Barcelona",
+"_locs": [
+"ESP - Catalonia - Barcelona"
+],
+"allLocations": [
+"ESP - Catalonia - Barcelona"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/ESP---Catalonia---Barcelona/Project-Engineer-Trainee_R00306859",
+"publishedAt": "2026-11-02",
+"ats": "workday"
+},
+{
 "company": "Motorola",
 "title": "Intern Software Developer (React/JS)",
 "location": "Krakow, Poland",
@@ -5064,6 +5906,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879",
+"publishedAt": "2026-11-02",
+"ats": "workday"
+},
+{
+"company": "Intel",
+"title": "DevOps Software Engineering Intern",
+"location": "Poland, Gdansk",
+"_locs": [
+"Poland, Gdansk"
+],
+"allLocations": [
+"Poland, Gdansk"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633",
 "publishedAt": "2026-11-02",
 "ats": "workday"
 },
@@ -5180,120 +6041,6 @@
 "url": "https://job-boards.greenhouse.io/tensordyne/jobs/8926410002",
 "publishedAt": "2026-11-01T14:31:17-05:00",
 "ats": "greenhouse"
-},
-{
-"company": "TRUMPF",
-"title": "Werkstudent (w/m/d) – Automatisierung, Intralogistik & Robotics (SS27)",
-"location": "Ditzingen",
-"_locs": [
-"Ditzingen"
-],
-"allLocations": [
-"Ditzingen"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d----Automatisierung--Intralogistik---Robotics--SS27-_R00043730",
-"publishedAt": "2026-11-01",
-"ats": "workday"
-},
-{
-"company": "TRUMPF",
-"title": "Werkstudent (w/m/d) Data & Analytics – TRUMPF Factory Insights Web App (SS27)",
-"location": "Ditzingen",
-"_locs": [
-"Ditzingen"
-],
-"allLocations": [
-"Ditzingen"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d--Data---Analytics---TRUMPF-Factory-Insights-Web-App--SS27-_R00043248",
-"publishedAt": "2026-11-01",
-"ats": "workday"
-},
-{
-"company": "TRUMPF",
-"title": "Werkstudent (w/m/d) Data Engineering/Science und Computer Vision (SS27)",
-"location": "Ditzingen",
-"_locs": [
-"Ditzingen"
-],
-"allLocations": [
-"Ditzingen"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d--Data-Engineering-Science-und-Computer-Vision--SS27-_R00043250-1",
-"publishedAt": "2026-11-01",
-"ats": "workday"
-},
-{
-"company": "TRUMPF",
-"title": "Werkstudent (m/w/d) im Bereich Data Engineering und Data Science (SS27)",
-"location": "Ditzingen",
-"_locs": [
-"Ditzingen"
-],
-"allLocations": [
-"Ditzingen"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--m-w-d--im-Bereich-Data-Engineering-und-Data-Science--SS27-_R00043417",
-"publishedAt": "2026-11-01",
-"ats": "workday"
-},
-{
-"company": "TRUMPF",
-"title": "Werkstudent (w/m/d) Business & Market Analytics (SS27)",
-"location": "Ditzingen",
-"_locs": [
-"Ditzingen"
-],
-"allLocations": [
-"Ditzingen"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--w-m-d--Business---Market-Analytics--SS27-_R00043473-1",
-"publishedAt": "2026-11-01",
-"ats": "workday"
-},
-{
-"company": "TRUMPF",
-"title": "Werkstudent (w/m/d) Central Data Processing (SS27)",
-"location": "Ditzingen",
-"_locs": [
-"Ditzingen"
-],
-"allLocations": [
-"Ditzingen"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Ditzingen/Werkstudent--w-m-d--Central-Data-Processing--SS27-_R00043372",
-"publishedAt": "2026-11-01",
-"ats": "workday"
 },
 {
 "company": "NVIDIA",
@@ -5637,6 +6384,44 @@
 "url": "https://opennl.recruitee.com/o/stage",
 "publishedAt": "2026-10-30 08:20:43 UTC",
 "ats": "recruitee"
+},
+{
+"company": "Nokia",
+"title": "Financial Data Engineering / Business Data Analytics Trainee — Patent Portfolio Management",
+"location": "Finland",
+"_locs": [
+"Finland"
+],
+"allLocations": [
+"Finland"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41680",
+"publishedAt": "2026-10-30",
+"ats": "oracle"
+},
+{
+"company": "Honeywell",
+"title": "Intern Bachelors - Software Engineering (QA Automation) (1-year full-time contract)",
+"location": "Bucuresti, Romania",
+"_locs": [
+"Bucuresti, Romania"
+],
+"allLocations": [
+"Bucuresti, Romania"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159184",
+"publishedAt": "2026-10-30",
+"ats": "oracle"
 },
 {
 "company": "ABB",
@@ -6021,6 +6806,25 @@
 "ats": "recruitee"
 },
 {
+"company": "Nokia",
+"title": "Software Development Trainee",
+"location": "Portugal",
+"_locs": [
+"Portugal"
+],
+"allLocations": [
+"Portugal"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40305",
+"publishedAt": "2026-10-29",
+"ats": "oracle"
+},
+{
 "company": "Roche",
 "title": "Internship - AI Metadata Augmentation",
 "location": "Kaiseraugst",
@@ -6059,21 +6863,21 @@
 "ats": "workday"
 },
 {
-"company": "GE Healthcare",
-"title": "Stage – Data Analysis & Power BI",
-"location": "Buc",
+"company": "Air Liquide",
+"title": "Web Content Editor - Internship",
+"location": "Spain, Paterna",
 "_locs": [
-"Buc"
+"Spain, Paterna"
 ],
 "allLocations": [
-"Buc"
+"Spain, Paterna"
 ],
 "remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Buc/Stage---Data-Analysis---Power-BI_R4048542-2",
+"url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Spain-Paterna/Web-Content-Editor---Internship_R10103953",
 "publishedAt": "2026-10-29",
 "ats": "workday"
 },
@@ -6093,25 +6897,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Prague/Technical-Trainee---Python---AI-development_REQ2026082875",
-"publishedAt": "2026-10-29",
-"ats": "workday"
-},
-{
-"company": "Air Liquide",
-"title": "Web Content Editor - Internship",
-"location": "Spain, Paterna",
-"_locs": [
-"Spain, Paterna"
-],
-"allLocations": [
-"Spain, Paterna"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Spain-Paterna/Web-Content-Editor---Internship_R10103953",
 "publishedAt": "2026-10-29",
 "ats": "workday"
 },
@@ -6571,6 +7356,25 @@
 "ats": "workday"
 },
 {
+"company": "Sanofi",
+"title": "stage 6 mois – data analyst audit interne",
+"location": "Gentilly",
+"_locs": [
+"Gentilly"
+],
+"allLocations": [
+"Gentilly"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois---data-analyst-audit-interne_R2871443",
+"publishedAt": "2026-10-28",
+"ats": "workday"
+},
+{
 "company": "Carrier Global",
 "title": "Duales Studium Embedded Systems B.Eng. 2027 (m/w/d)",
 "location": "Viessmann Shared Service GmbH, Viessmannstraße 1, 35107 Allendorf (Eder), Germany",
@@ -6609,44 +7413,6 @@
 "ats": "workday"
 },
 {
-"company": "Sanofi",
-"title": "stage 6 mois – data analyst audit interne",
-"location": "Gentilly",
-"_locs": [
-"Gentilly"
-],
-"allLocations": [
-"Gentilly"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Gentilly/stage-6-mois---data-analyst-audit-interne_R2871443",
-"publishedAt": "2026-10-28",
-"ats": "workday"
-},
-{
-"company": "Visa",
-"title": "Consulting & Analytics Summer Intern",
-"location": "ES - Madrid, Spain",
-"_locs": [
-"ES - Madrid, Spain"
-],
-"allLocations": [
-"ES - Madrid, Spain"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1",
-"publishedAt": "2026-10-28",
-"ats": "workday"
-},
-{
 "company": "GlobalFoundries",
 "title": "Werkstudent*in im Bereich Machine Learning & Virtual Metrology",
 "location": "Dresden",
@@ -6666,21 +7432,21 @@
 "ats": "workday"
 },
 {
-"company": "ASML",
-"title": "Computer Science | Internship: Performance Analytics Tool Development",
-"location": "Veldhoven, Netherlands",
+"company": "Visa",
+"title": "Consulting & Analytics Summer Intern",
+"location": "ES - Madrid, Spain",
 "_locs": [
-"Veldhoven, Netherlands"
+"ES - Madrid, Spain"
 ],
 "allLocations": [
-"Veldhoven, Netherlands"
+"ES - Madrid, Spain"
 ],
-"remote": null,
+"remote": false,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Internship--Performance-Analytics-Tool-Development_J-00356040",
+"url": "https://visa.wd5.myworkdayjobs.com/Visa/job/ES---Madrid-Spain/Consulting---Analytics-Summer-Intern_REF089917W-1",
 "publishedAt": "2026-10-28",
 "ats": "workday"
 },
@@ -6831,22 +7597,21 @@
 "ats": "workday"
 },
 {
-"company": "KION Group",
-"title": "Duales Studium - Bachelor (B.Sc.) Informatik 2027",
-"location": "Frankfurt am Main, Germany",
+"company": "Air Liquide",
+"title": "STAGE ENERGIE MANAGEMENT - DATA - INNOVATION F/H",
+"location": "Bagneux Symbiose - Management - ALFI LI",
 "_locs": [
-"Frankfurt am Main, Germany"
+"Bagneux Symbiose - Management - ALFI LI"
 ],
 "allLocations": [
-"Frankfurt am Main, Germany",
-"Aschaffenburg, Germany"
+"Bagneux Symbiose - Management - ALFI LI"
 ],
-"remote": false,
+"remote": null,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Frankfurt-am-Main-Germany/Duales-Studium---Bachelor--BSc--Wirtschaftsinformatik-2027_JR-0095994",
+"url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Bagneux-Symbiose---Management---ALFI-LI/STAGE-ENERGIE-MANAGEMENT---DATA---INNOVATION-F-H_R10103982",
 "publishedAt": "2026-10-27",
 "ats": "workday"
 },
@@ -6889,21 +7654,22 @@
 "ats": "workday"
 },
 {
-"company": "Air Liquide",
-"title": "STAGE ENERGIE MANAGEMENT - DATA - INNOVATION F/H",
-"location": "Bagneux Symbiose - Management - ALFI LI",
+"company": "KION Group",
+"title": "Duales Studium - Bachelor (B.Sc.) Informatik 2027",
+"location": "Frankfurt am Main, Germany",
 "_locs": [
-"Bagneux Symbiose - Management - ALFI LI"
+"Frankfurt am Main, Germany"
 ],
 "allLocations": [
-"Bagneux Symbiose - Management - ALFI LI"
+"Frankfurt am Main, Germany",
+"Aschaffenburg, Germany"
 ],
-"remote": null,
+"remote": false,
 "salaryMin": null,
 "salaryMax": null,
 "salaryCurrency": null,
 "salaryInterval": null,
-"url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Bagneux-Symbiose---Management---ALFI-LI/STAGE-ENERGIE-MANAGEMENT---DATA---INNOVATION-F-H_R10103982",
+"url": "https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Frankfurt-am-Main-Germany/Duales-Studium---Bachelor--BSc--Wirtschaftsinformatik-2027_JR-0095994",
 "publishedAt": "2026-10-27",
 "ats": "workday"
 },
@@ -6982,25 +7748,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Analytics---Insights-Internship--m-f-d-_R000150319",
-"publishedAt": "2026-10-27",
-"ats": "workday"
-},
-{
-"company": "Rockwell Automation",
-"title": "Software - Intern",
-"location": "Katowice, Poland",
-"_locs": [
-"Katowice, Poland"
-],
-"allLocations": [
-"Katowice, Poland"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Katowice-Poland/Software---Intern_R26-8101",
 "publishedAt": "2026-10-27",
 "ats": "workday"
 },
@@ -7382,25 +8129,6 @@
 "ats": "workday"
 },
 {
-"company": "Air Liquide",
-"title": "Stage - AI Specialist (H/F)",
-"location": "France, Bagneux",
-"_locs": [
-"France, Bagneux"
-],
-"allLocations": [
-"France, Bagneux"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Bagneux/Stage---AI-Specialist--H-F-_R10103849",
-"publishedAt": "2026-10-26",
-"ats": "workday"
-},
-{
 "company": "Heartbeat AI GmbH",
 "title": "Werkstudent:in AI & Automation - Energy (m/w/d)",
 "location": "Berlin",
@@ -7691,25 +8419,6 @@
 "ats": "greenhouse"
 },
 {
-"company": "Valeo",
-"title": "Stagiaire - Analyste Stratégie IT",
-"location": "Paris",
-"_locs": [
-"Paris"
-],
-"allLocations": [
-"Paris"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Paris/Apprenti-e----Analyste-Stratgie-IT_REQ2026078035",
-"publishedAt": "2026-10-23",
-"ats": "workday"
-},
-{
 "company": "Merck",
 "title": "Intern – HBO/WO Business administration or Data Analytics – Intellectual Property",
 "location": "NLD - North Brabant - Boxmeer",
@@ -7786,6 +8495,25 @@
 "ats": "workday"
 },
 {
+"company": "Intel",
+"title": "DevOps Engineering Intern",
+"location": "Poland, Gdansk",
+"_locs": [
+"Poland, Gdansk"
+],
+"allLocations": [
+"Poland, Gdansk"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Engineering-Intern_JR0288221-1",
+"publishedAt": "2026-10-23",
+"ats": "workday"
+},
+{
 "company": "Michelin",
 "title": "Stage développeur :  Data Mining & traitement d'image pour la microscopie (F/H) Clermont-Fd",
 "location": "Clermont-Ferrand",
@@ -7801,25 +8529,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Stage-dveloppeur----Data-Mining---traitement-d-image-pour-la-microscopie--F-H--Clermont-Fd_R-2026037815",
-"publishedAt": "2026-10-23",
-"ats": "workday"
-},
-{
-"company": "Tencent",
-"title": "SRE Intern",
-"location": "Netherlands-Amsterdam",
-"_locs": [
-"Netherlands-Amsterdam"
-],
-"allLocations": [
-"Netherlands-Amsterdam"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/SRE-Intern_R108291",
 "publishedAt": "2026-10-23",
 "ats": "workday"
 },
@@ -8085,6 +8794,44 @@
 "ats": "recruitee"
 },
 {
+"company": "Hilton Worldwide",
+"title": "Strategic Data Analysis Internship",
+"location": "Amsterdam, Noord-Holland, Netherlands",
+"_locs": [
+"Amsterdam, Noord-Holland, Netherlands"
+],
+"allLocations": [
+"Amsterdam, Noord-Holland, Netherlands"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/228508",
+"publishedAt": "2026-10-22",
+"ats": "oracle"
+},
+{
+"company": "Emerson Electric",
+"title": "Internship: AI-based Test & Measurement Workflows",
+"location": "DRESDEN, SACHSEN, Germany",
+"_locs": [
+"DRESDEN, SACHSEN, Germany"
+],
+"allLocations": [
+"DRESDEN, SACHSEN, Germany"
+],
+"remote": false,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012511",
+"publishedAt": "2026-10-22",
+"ats": "oracle"
+},
+{
 "company": "ABB",
 "title": "MSc or BSc Thesis / Internship (m/f/d) AI for Intent-Based Networking",
 "location": "Mannheim, Baden-Wurttemberg, Germany",
@@ -8138,6 +8885,25 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125",
+"publishedAt": "2026-10-22",
+"ats": "workday"
+},
+{
+"company": "Intel",
+"title": "Software Development Intern (m/f/d)",
+"location": "Germany, Munich",
+"_locs": [
+"Germany, Munich"
+],
+"allLocations": [
+"Germany, Munich"
+],
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215",
 "publishedAt": "2026-10-22",
 "ats": "workday"
 },
@@ -8197,134 +8963,6 @@
 "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Cantabria/Production---Industrial-Automation-Engineering--Graduate-Trainee_R00213377-1",
 "publishedAt": "2026-10-22",
 "ats": "workday"
-},
-{
-"company": "Bertelsmann-Jobs",
-"title": "Werkstudent (m/w/d) Data Analysis",
-"location": "Baden-Baden, Baden-Württemberg, Germany",
-"_locs": [
-"Baden-Baden, Baden-Württemberg, Germany",
-"Verl, Nordrhein-Westfalen, Germany"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000156845927",
-"publishedAt": "2026-10-21T16:04:12.633Z",
-"ats": "smartrecruiters"
-},
-{
-"company": "Sonio",
-"title": "Software Engineer Intern",
-"location": "Paris office",
-"_locs": [
-"Paris office"
-],
-"allLocations": [
-"Paris office"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.ashbyhq.com/sonio/64507d48-cdea-4654-a8f4-28b70ce6cb97",
-"publishedAt": "2026-10-21T14:50:08.032+00:00",
-"ats": "ashby"
-},
-{
-"company": "Ekimetrics",
-"title": "Stage 2027 AI/ML Engineer 100% R&D - Tabular foundation models",
-"location": "Paris",
-"_locs": [
-"Paris"
-],
-"allLocations": [
-"Paris"
-],
-"remote": false,
-"salaryMin": 1800.0,
-"salaryMax": 1800.0,
-"salaryCurrency": "EUR",
-"salaryInterval": "month",
-"url": "https://jobs.lever.co/ekimetrics/8cb04b24-6ed0-4dc7-9b5e-e29c9cf5dd2c",
-"publishedAt": "2026-10-21T14:17:13.311000+00:00",
-"ats": "lever"
-},
-{
-"company": "AFRY",
-"title": "Master’s Thesis - Leveraging AI for Simulation Model Development",
-"location": "Gothenburg, Västra Götaland County, Sweden",
-"_locs": [
-"Gothenburg, Västra Götaland County, Sweden"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/AFRY/744000156798521",
-"publishedAt": "2026-10-21T13:16:30.338Z",
-"ats": "smartrecruiters"
-},
-{
-"company": "ALTEN",
-"title": "Offre de stage – Assistant(e) Forward Deployed (FDE) IA (H/F)",
-"location": "La Rochelle, Nouvelle-Aquitaine, France",
-"_locs": [
-"La Rochelle, Nouvelle-Aquitaine, France"
-],
-"allLocations": null,
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.smartrecruiters.com/ALTEN/744000156786409",
-"publishedAt": "2026-10-21T12:16:05.427Z",
-"ats": "smartrecruiters"
-},
-{
-"company": "Escape Technologies",
-"title": "DevSecOps Engineer - Final year Internship - Stage PFE",
-"location": "Paris Office",
-"_locs": [
-"Paris Office"
-],
-"allLocations": [
-"Paris Office"
-],
-"remote": false,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://jobs.ashbyhq.com/escape/07b934bc-7468-4a04-ac8f-385f4e9f4c46",
-"publishedAt": "2026-10-21T11:29:53.881+00:00",
-"ats": "ashby"
-},
-{
-"company": "Celonis",
-"title": "AI & Management Consulting Intern (Value Engineering - DACH Market)",
-"location": "Munich, Germany",
-"_locs": [
-"Munich, Germany"
-],
-"allLocations": [
-"Munich, Germany"
-],
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://job-boards.greenhouse.io/celonis/jobs/7925721003?gh_jid=7925721003",
-"publishedAt": "2026-10-21T10:25:03-04:00",
-"ats": "greenhouse"
 }
 ]
 }
