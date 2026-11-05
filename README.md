@@ -2,20 +2,21 @@
 
 Software engineering, data, ML, security and hardware internships, working-student roles and graduate jobs in the UK, Ireland and the rest of Europe, from 20,000+ company career pages. Nobody curates it by hand, so it doesn't wait for pull requests.
 
-**503 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-04 18:01 UTC. Worldwide lists: [New-Grad-and-Internships-2027](https://github.com/jordan-belfort-ai/New-Grad-and-Internships-2027).
+**514 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-05 01:02 UTC. Worldwide lists: [New-Grad-and-Internships-2027](https://github.com/jordan-belfort-ai/New-Grad-and-Internships-2027).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/European-Tech-Internships-2027/
 
-Contents: [Internships: UK & Ireland](#internships-uk--ireland) (61) · [Internships: Europe](#internships-europe) (292) · [New grad: UK & Ireland](#new-grad-uk--ireland) (60) · [New grad: Europe](#new-grad-europe) (90)
+Contents: [Internships: UK & Ireland](#internships-uk--ireland) (63) · [Internships: Europe](#internships-europe) (295) · [New grad: UK & Ireland](#new-grad-uk--ireland) (58) · [New grad: Europe](#new-grad-europe) (98)
 
-Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (34), Bosch Group (23), EUROPEAN DYNAMICS (15), Leonardo (14), Barclays (13), Jane Street (12), MBDA (9), American Express (8), Amazon (8), Valeo (7).
+Most roles this fortnight: Airbus (45), Sopra Steria (38), Bosch Group (23), EUROPEAN DYNAMICS (15), Leonardo (13), Barclays (13), Jane Street (12), MBDA (9), Schneider Electric (9), American Express (8), Amazon (8), Valeo (7).
 
 ## Internships: UK & Ireland
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
+| Molson Coors | [Data Insights Apprentice](https://careers.molsoncoors.com/us/en/job/40190) 🆕 | Burton on Trent, GB-STS, United Kingdom |  | 2026-11-04 |
 | Jane Street | [Hardware Engineer (FPGA/ASIC) (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8651323002/) 🆕 | London, GB |  | 2026-11-04 |
 | Jane Street | [Machine Learning Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8648474002/) 🆕 | London, GB |  | 2026-11-04 |
 | Jane Street | [Machine Learning Researcher (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8594416002/) 🆕 | London, GB |  | 2026-11-04 |
@@ -23,14 +24,14 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Jane Street | [Quantitative Trader (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8474407002/) 🆕 | London, GB |  | 2026-11-04 |
 | Jane Street | [Software Engineer (Summer Internship)](https://www.janestreet.com/join-jane-street/position/8589868002/) 🆕 | London, GB |  | 2026-11-04 |
 | Bosch Group | [Undergraduate Placement Year 2027 – Data Privacy Intern](https://jobs.smartrecruiters.com/BoschGroup/744000159640003) 🆕 | Worcester, England, United Kingdom |  | 2026-11-04 |
-| Roku | [Software Engineering Internship Program (Summer 2027)](https://www.weareroku.com/jobs/8345967?gh_jid=8345967) 🆕 | Manchester, United Kingdom; Cambridge, United Kingdom |  | 2026-11-04 |
+| Roku | [Software Engineering Internship Program (Summer 2027)](https://www.weareroku.com/jobs/8345967?gh_jid=8345967) 🆕 | Cambridge, United Kingdom; Manchester, United Kingdom |  | 2026-11-04 |
 | Roku | [AI Engineering Internship Program (Summer 2027)](https://www.weareroku.com/jobs/8345954?gh_jid=8345954) 🆕 | Manchester, United Kingdom; Cambridge, United Kingdom |  | 2026-11-04 |
 | Citco | [Private Equity IT Intern](https://fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/20411) 🆕 | Dublin, Co. Dublin, Ireland |  | 2026-11-04 |
-| GE Vernova | [Software Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Software-Engineering-Intern_R5057006-1) 🆕 |  |  | 2026-11-03 |
-| Leonardo | [Product Security Degree Apprentice](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Product-Security-Degree-Apprentice_R0034558) 🆕 | GB - Basildon; GB - Southampton |  | 2026-11-03 |
-| Tencent | [LLM & Agent Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/LLM---Agent-Research-Intern_R108285) 🆕 | United Kingdom-London |  | 2026-11-03 |
-| Aries Global | [Software Engineer Intern](https://jobs.ashbyhq.com/ariesglobal/f5f204ad-8b51-4aee-a269-9a5d2ee7e3b8) 🆕 | London |  | 2026-11-02 |
-| Aries Global | [Data Intern](https://jobs.ashbyhq.com/ariesglobal/669ab0e1-cbbf-49e4-9136-accbff724f54) 🆕 | London |  | 2026-11-02 |
+| GE Vernova | [Software Engineering Intern](https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Software-Engineering-Intern_R5057006-1) |  |  | 2026-11-03 |
+| Leonardo | [Product Security Degree Apprentice](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Product-Security-Degree-Apprentice_R0034558) | GB - Basildon; GB - Southampton |  | 2026-11-03 |
+| Tencent | [LLM & Agent Research Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/United-Kingdom-London/LLM---Agent-Research-Intern_R108285) | United Kingdom-London |  | 2026-11-03 |
+| Aries Global | [Software Engineer Intern](https://jobs.ashbyhq.com/ariesglobal/f5f204ad-8b51-4aee-a269-9a5d2ee7e3b8) | London |  | 2026-11-02 |
+| Aries Global | [Data Intern](https://jobs.ashbyhq.com/ariesglobal/669ab0e1-cbbf-49e4-9136-accbff724f54) | London |  | 2026-11-02 |
 | EDF UK | [Business Improvement and Data Analysis Industrial Placement](https://jobs.smartrecruiters.com/EDF-UK/744000159121089) | Morecambe, United Kingdom |  | 2026-11-02 |
 | Cambridge Consultants | [AI Engineering Internship (2027 start)](https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4995820101) | United Kingdom |  | 2026-11-02 |
 | LegalAndGeneral | [Apprenticeship - Asset Management Data Programme - London - 2027](https://jobs.smartrecruiters.com/LegalAndGeneral/744000159111239) | London, England, United Kingdom |  | 2026-11-02 |
@@ -43,7 +44,9 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Barclays | [2027 Technology Developer Degree Apprenticeship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431) | Northampton, Barclays Campus, Pavilion Drive |  | 2026-11-02 |
 | Barclays | [2027 Technology Developer Degree Apprenticeship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443) | Knutsford, Radbroke Hall |  | 2026-11-02 |
 | Barclays | [2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) | Knutsford, Radbroke Hall |  | 2026-11-02 |
-| Abbott | [Internship IT](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Longford/Internship-IT_31166440) | Ireland - Longford; Ireland - Dublin |  | 2026-10-30 |
+| Microsoft | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) | Cambridge, Cambridgeshire, United Kingdom |  | 2026-10-30 |
+| Abbott | [Internship IT](https://abbott.wd5.myworkdayjobs.com/abbottcareers/job/Ireland---Longford/Internship-IT_31166440) | Longford, Longford, Ireland; Ireland - Longford |  | 2026-10-30 |
+| IBM | [Early Associate Data Insights, Analytics & Technology Intern (12-Week Summer Internship)](https://careers.ibm.com/careers/JobDetail?jobId=138998) | London, GB |  | 2026-10-30 |
 | General Motors | [Java Software Engineer Intern](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Dublin-Ireland/Java-Software-Engineer-Intern_JR-202619011-1) | Dublin, Ireland |  | 2026-10-30 |
 | Talos | [Software Engineer Intern, Trading](https://jobs.ashbyhq.com/talos-trading/42cad756-c312-4142-a9b7-18ed76f61c5d) | London |  | 2026-10-29 |
 | Talos | [Software Engineer Intern, Infrastructure](https://jobs.ashbyhq.com/talos-trading/f2a0aaa2-af88-4715-9f2d-8f61bd5e2935) | London |  | 2026-10-29 |
@@ -68,7 +71,7 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Roche | [Industrial Placement Student - Data Expert, Compliance by Design, Data Capability, DDC, Co](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/Industrial-Placement-Student---Data-Expert--Compliance-by-Design--Data-Capability--DDC--Computational-Sciences-Center-of-Excellence_202610-127533) | Welwyn |  | 2026-10-26 |
 | FTI Consulting | [2027 Summer Internship, Cybersecurity](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Cybersecurity_JR260836) | London, United Kingdom |  | 2026-10-26 |
 | FTI Consulting | [2027 Summer Internship, Data & Analytics](https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771) | London, United Kingdom |  | 2026-10-26 |
-| Intercontinental Exchange Holdings, Inc. | [Summer Internship Program 2027 - Cybersecurity Engineering Intern](https://globalcareers-ice.icims.com/jobs/14092/login) | London, United Kingdom |  | 2026-10-23 |
+| Intercontinental Exchange Holdings, Inc. | [Summer Internship Program 2027 - Cybersecurity Engineering Intern](https://careers.ice.com/jobs/14092) | London, United Kingdom |  | 2026-10-23 |
 | PA Consulting | [2027 Industrial Placement - Digital (Digital & Data) - Bristol](https://jobs.smartrecruiters.com/PAConsulting/744000157427038) | Bristol, United Kingdom |  | 2026-10-23 |
 | MongoDB | [2027 - Summer Software Engineer Intern, Dublin](https://www.mongodb.com/careers/job/?gh_jid=8267099) | Dublin |  | 2026-10-23 |
 | Glencore UK | [Glencore – 2027 Industrial Placement Programme – Quantitative Research (Analytics)](https://job-boards.eu.greenhouse.io/glencoreuk/jobs/5013289101) | London |  | 2026-10-23 |
@@ -76,18 +79,12 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Leonardo | [Industrial Placement Firmware Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Luton---Cap-Green-300/Industrial-Placement-Firmware-Engineer_R0032906) | GB - Luton - Cap. Green 300 |  | 2026-10-23 |
 | Leonardo | [Industrial Placement Test Systems Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Systems-Engineer_R0034207) | GB - Edinburgh |  | 2026-10-23 |
 | Leonardo | [Industrial Placement Test Software Engineer](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Industrial-Placement-Test-Software-Engineer_R0034205) | GB - Edinburgh |  | 2026-10-23 |
-| LexisNexis Risk Solutions | [Undergraduate Placement - Data Science & Fraud Analytics](https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/London-Wall/Intern_R119888) | London Wall |  | 2026-10-22 |
 
 ## Internships: Europe
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Schneider Electric | [Stage Fin d'études :  Ingénieur Supply Chain, Data & Amélioration Continue](https://frcareers-se.icims.com/jobs/128390/login) 🆕 | RUEIL MALMAISON, France |  | September  |
-| Schneider Electric | [Stage - Développement de tests Cybersécurité F/H](https://frcareers-se.icims.com/jobs/135807/login) 🆕 | EYBENS, France |  | September  |
-| Schneider Electric | [IT Business Partner Intern](https://careers-se.icims.com/jobs/136678/login) 🆕 | Budapest, Hungary |  | September  |
-| Schneider Electric | [Stage - Physical AI pour l'Industrie du Futur - H/F](https://frcareers-se.icims.com/jobs/133911/login) 🆕 | GRENOBLE, France |  | September  |
-| Schneider Electric | [Stage - Cybersécurité et cryptographie post quantique - F/H](https://frcareers-se.icims.com/jobs/135779/login) 🆕 | EYBENS, France |  | September  |
-| Schneider Electric | [Stage -  Développement d'une plateforme Web de gestion et de visualisation de capteurs Zig](https://frcareers-se.icims.com/jobs/135455/login) 🆕 | GRENOBLE, France |  | September  |
+| Natixis in Portugal | [IT Intern / Natixis Trainee Program 2027 S1](https://jobs.smartrecruiters.com/NatixisInPortugal/744000159699229) 🆕 | Lisbon, Lisbon, Portugal; Porto, Porto, Portugal |  | 2026-11-04 |
 | Sopra Steria | [Stage Développement Logiciel d’un outil de statistique - Défense & Sécurité - Le Plessis-R](https://jobs.smartrecruiters.com/SopraSteria1/744000159677378) 🆕 | Le Plessis-Robinson, IDF, France |  | 2026-11-04 |
 | Wavestone | [AI Strategy & Business Transformation - Stage de fin d'études (H/F)](https://jobs.smartrecruiters.com/Wavestone1/744000159667949) 🆕 | Puteaux, IDF, France |  | 2026-11-04 |
 | Informa Group Plc. | [Data Analyst Internship](https://jobs.smartrecruiters.com/InformaGroupPlc/744000159666020) 🆕 | Amsterdam, NH, Netherlands |  | 2026-11-04 |
@@ -106,7 +103,7 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | CERN | [Short Term Internship 2027 - Data Science, AI & Analytics](https://jobs.smartrecruiters.com/CERN/744000159629244) 🆕 | Geneva, GE, Switzerland |  | 2026-11-04 |
 | Huawei Research Center Germany | [Intern - Software Engineer, Spatial AI Agent Platform](https://huaweiresearchcentergermanyaustria.teamtailor.com/jobs/8665769-intern-software-engineer-spatial-ai-agent-platform) 🆕 | München, Germany |  | 2026-11-04 |
 | WAREMA Renkhoff SE | [Duales Studium Data Science und Künstliche Intelligenz 2027 (DHBW)](https://jobs.smartrecruiters.com/WAREMARenkhoffSE/744000159624111) 🆕 | Marktheidenfeld, BY, Germany |  | 2026-11-04 |
-| AXA | [AI Engineer (F/H) - stage](https://candidature-recrutement.axa.fr/parcours/JobDetail?pipelineId=37070) 🆕 | WASQUEHAL, France |  | 2026-11-04 |
+| AXA | [AI Engineer (F/H) - stage](https://careers.axa.com/jobs/37070) 🆕 | WASQUEHAL, France |  | 2026-11-04 |
 | Bosch Group | [Estágio Extracurricular: Planeamento Supply Chain & Data Analytics para a região EMEA (f/m](https://jobs.smartrecruiters.com/BoschGroup/744000159587355) 🆕 | Aveiro, Portugal |  | 2026-11-04 |
 | Zenjob | [Werkstudent Commercial Enablement - AI & Automation (German-Speaking) (f/m/d)](https://jobs.ashbyhq.com/zenjob/c7deb3e8-27f5-40c6-9a6f-e2e2a5263000) 🆕 | Berlin |  | 2026-11-04 |
 | Symbio | [Stagiaire Ingénieur Logiciel Embarqué H/F](https://jobs.symbio-career.one/jobs/8663394-stagiaire-ingenieur-logiciel-embarque-h-f) 🆕 | Saint-Fons, France |  | 2026-11-04 |
@@ -119,10 +116,11 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Vocca | [AI Deployment Strategist - End-of-studies internship (2K€/month)](https://jobs.ashbyhq.com/vocca/64a09b3c-3304-495a-9537-49343e62de98) 🆕 | Paris |  | 2026-11-04 |
 | BEW Berliner Energie und Wärme GmbH | [Duales Studium Bachelor of Science - Informatik 2027](https://jobs.smartrecruiters.com/bew/744000159561589) 🆕 | Berlin, BE, Germany |  | 2026-11-04 |
 | Symbio | [Stagiaire Validation Logicielle HIL (Hardware In the Loop) H/F](https://jobs.symbio-career.one/jobs/8662196-stagiaire-validation-logicielle-hil-hardware-in-the-loop-h-f) 🆕 | Saint-Fons, France |  | 2026-11-04 |
-| Clifford Chance | [IT & Technology Intern - Clifford Chance, Brussels](https://jobs.smartrecruiters.com/CliffordChance/744000159553629) 🆕 | Brussels, Belgium |  | 2026-11-04 |
 | Delivery Hero | [Intern, Data Engineer - People & Culture](https://jobs.smartrecruiters.com/DeliveryHero/744000159550349) 🆕 | Berlin, Germany |  | 2026-11-04 |
 | IONOS DE | [Werkstudent (w/m/d) - Security Tooling](https://job-boards.eu.greenhouse.io/ionos/jobs/5020278101) 🆕 | Revaler Straße 28-31, 10245 Berlin |  | 2026-11-04 |
 | IONOS EN | [Working Student (f/m/d) - Security Tooling](https://job-boards.eu.greenhouse.io/ionos2/jobs/5020279101) 🆕 | Revaler Straße 28-31, 10245 Berlin |  | 2026-11-04 |
+| Thermo Fisher Scientific | [Intern - Data Analyst](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Data-Analyst_R-01374008-1) 🆕 | Brno, Czechia |  | 2026-11-04 |
+| Schneider Electric | [Stage – Data analyst – Pilotage des activités Services – F/H](https://se.jibeapply.com/jobs/136452) 🆕 | CARROS, France |  | 2026-11-04 |
 | Amazon | [2027 Applied Scientist Internship – Masters, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10596377/2027-applied-scientist-internship-masters-amazon-university-talent-acquisition) 🆕 | Bucharest, RO |  | 2026-11-04 |
 | Erste Digital GmbH | [Internship IT Workplace Support  (all humans)](https://erstedigital.recruitee.com/o/internship-it-workplace-support-all-humans) 🆕 | Vienna, Wien, Austria |  | 2026-11-04 |
 | Airbus | [STAGE 2027 - Data & Performance Industrielle - Outil d'aide à l'analyse des temps de test ](https://ag.wd3.myworkdayjobs.com/Airbus/job/Toulouse-Area/STAGE-2027---Stage-Data---Performance-Industrielle---Analyse-des-temps-de-test-de-production_JR10445533) 🆕 | Toulouse Area |  | 2026-11-04 |
@@ -131,9 +129,10 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Airbus | [STAGE 2027 - Cybersécurité (H/F)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Marseille-Area/STAGE-2027---Cyberscurit--H-F-_JR10444451) 🆕 | Marseille Area |  | 2026-11-04 |
 | Airbus | [Stage 2027- Energy Management : Analyse de données, performance énergétique et Réglementat](https://ag.wd3.myworkdayjobs.com/Airbus/job/Marseille-Area/Stage-2027--Energy-Management---Analyse-de-donnes--performance-nergtique-et-Rglementation--h---f-_JR10445474) 🆕 | Marseille Area |  | 2026-11-04 |
 | Airbus | [STAGE 2027 - Assurance Qualité et  Analyse de données (ALL GENDER)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Nantes-Area/STAGE-2027---Assurance-Qualit-et--Analyse-de-donnes--ALL-GENDER-_JR10446647) 🆕 | Nantes Area |  | 2026-11-04 |
-| Air Liquide | [Stage - Business & Data Analyst - Achats Europe H/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Business---Data-Analyst---Achats-Europe-H-F_R10104219) 🆕 | France, Paris |  | 2026-11-04 |
-| Valeo | [Stage - Développeur mobile Unity - C#](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/Stage---Dveloppeur-mobile-Unity---C-_REQ2026082997) 🆕 | Créteil |  | 2026-11-04 |
+| NVIDIA | [Software Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Software-Engineering-Intern---2027_JR2029184) 🆕 | Germany, Munich |  | 2026-11-04 |
 | Ecolab | [IT Trainee](https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/ESP---Catalonia---Barcelona/IT-Trainee_R00302789) 🆕 | ESP - Catalonia - Barcelona |  | 2026-11-04 |
+| Valeo | [Stage - Développeur mobile Unity - C#](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/Stage---Dveloppeur-mobile-Unity---C-_REQ2026082997) 🆕 | Créteil |  | 2026-11-04 |
+| Air Liquide | [Stage - Business & Data Analyst - Achats Europe H/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Stage---Business---Data-Analyst---Achats-Europe-H-F_R10104219) 🆕 | France, Paris |  | 2026-11-04 |
 | Sanofi | [Analytics and PowerBI Development Intern](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Praha/Analytics-and-PowerBI-Development-Intern_R2868855) 🆕 | Praha |  | 2026-11-04 |
 | Zeiss | [Werkstudent - Machine Learning & datenbasierte Prozessmodellierung (m/w/x)](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Werkstudent---Machine-Learning---datenbasierte-Prozessmodellierung--m-w-x-_JR_1054650) 🆕 | Oberkochen |  | 2026-11-04 |
 | Procter & Gamble | [DevOps Engineer Trainee](https://pg.wd5.myworkdayjobs.com/1000/job/WARSAW-PLANT--GO/DevOps-Engineer-Trainee_R000161777) 🆕 | WARSAW PLANT & GO |  | 2026-11-04 |
@@ -154,39 +153,45 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Scalian | [STAGE - Développeur logiciel embarqué H/F](https://jobs.smartrecruiters.com/Scalian/744000159432094) 🆕 | Vitrolles, Provence-Alpes-Côte d'Azur, France |  | 2026-11-03 |
 | Bosch Group | [Praktikum Software Development (w/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000159431490) 🆕 | Wien, Wien, Austria |  | 2026-11-03 |
 | MAZARS | [Stagiaire de fin d’études Tech Risk & IT M&A – Tech4Value 2027 (H/F)](https://jobs.smartrecruiters.com/MAZARS/744000159427189) 🆕 | Levallois-Perret, IDF, France |  | 2026-11-03 |
+| Siemens Healthineers | [Working Student (f/m/d) Agentic AI](https://careers.siemens-healthineers.com/global/en/job/P-101234) 🆕 | Erlangen, Bavaria, Germany |  | 2026-11-03 |
 | Back Market | [Data Analyst Intern](https://jobs.ashbyhq.com/backmarket/fb5d65f8-3619-46fa-8397-43d9ec1450f6) 🆕 | Barcelona |  | 2026-11-03 |
 | Keyrock | [Quantitative Analyst Intern (Digital Assets Market Making - HFT) - Brussels](https://jobs.ashbyhq.com/keyrock/2665c2ed-9131-46d9-9a05-564e7a719d33) 🆕 | Brussels |  | 2026-11-03 |
 | Keyrock | [Innovation Quant Developer Intern (DeFi/Corporate Development) - Brussels](https://jobs.ashbyhq.com/keyrock/d2d0a311-b102-4fda-b537-1a8e926b55c7) 🆕 | Brussels |  | 2026-11-03 |
 | Keyrock | [DeFi Quant Research Intern (Digital Assets Market Making) - Brussels](https://jobs.ashbyhq.com/keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) 🆕 | Brussels |  | 2026-11-03 |
 | Nexthink | [Java Software Engineer (Intern)](https://jobs.smartrecruiters.com/Nexthink/744000159392102) 🆕 | Madrid, MD, Spain |  | 2026-11-03 |
 | Bosch Group | [Praktikum im Bereich Enterprise Data & AI im Sondermaschinenbau](https://jobs.smartrecruiters.com/BoschGroup/744000159386310) 🆕 | Stuttgart, BW, Germany |  | 2026-11-03 |
-| Publicis Groupe | [Advanced Analytics Intern](https://careers-publicis-es.icims.com/jobs/179713/login) 🆕 | Madrid, Spain |  | 2026-11-03 |
+| Publicis Groupe | [Advanced Analytics Intern](https://careers.publicisgroupe.com/jobs/179713) 🆕 | Madrid, Spain |  | 2026-11-03 |
 | ASSYSTEM | [Ingénieur Data Science - Stage - H/F](https://jobs.smartrecruiters.com/ASSYSTEM/744000159357489) 🆕 | Nantes, Pays de la Loire, France |  | 2026-11-03 |
 | Egis Group | [Stagiaire Communication & Adoption Data & IA H/F](https://jobs.smartrecruiters.com/EgisGroup/744000159354659) 🆕 | Paris, IDF, France |  | 2026-11-03 |
 | Ledger | [Products Analytics Engineer - Internship](https://jobs.ashbyhq.com/ledger/8147f1f8-bbe5-4c63-b1b6-115eaf6efad2) 🆕 | Paris, France |  | 2026-11-03 |
-| Aptean | [Junior AI Go-to-Market Analyst - 6-month internship (H/F)](https://emea-aptean.icims.com/jobs/7179/login) 🆕 | Paris, France |  | 2026-11-03 |
+| Aptean | [Junior AI Go-to-Market Analyst - 6-month internship (H/F)](https://careers.aptean.com/jobs/7179) 🆕 | Paris, France |  | 2026-11-03 |
 | Egis Group | [Data & AI Community & Adoption Intern M/F](https://jobs.smartrecruiters.com/EgisGroup/744000159350984) 🆕 | Paris, IDF, France |  | 2026-11-03 |
 | Bosch Group | [Praktikum in der Softwareentwicklung – Low-Code oder Rich-Code](https://jobs.smartrecruiters.com/BoschGroup/744000159350179) 🆕 | Blaichach, BY, Germany |  | 2026-11-03 |
 | KPN | [Stage KPN Portal & Backend Engineering](https://jobs.smartrecruiters.com/KPN/744000159346499) 🆕 | Rotterdam, ZH, Netherlands |  | 2026-11-03 |
 | Scalian | [STAGE - Développeur logiciel java H/F](https://jobs.smartrecruiters.com/Scalian/744000159343344) 🆕 | Vitrolles, Provence-Alpes-Côte d'Azur, France |  | 2026-11-03 |
-| AXA | [Actuaire/Développeur python (F/H) - stage](https://candidature-recrutement.axa.fr/parcours/JobDetail?pipelineId=37425) 🆕 | NANTERRE, France |  | 2026-11-03 |
+| AXA | [Actuaire/Développeur python (F/H) - stage](https://careers.axa.com/jobs/37425) 🆕 | NANTERRE, France |  | 2026-11-03 |
 | KPN | [KPN Portal & Backend Engineering Internship](https://jobs.smartrecruiters.com/KPN/744000159340415) 🆕 | Rotterdam, ZH, Netherlands |  | 2026-11-03 |
 | Aumovio | [Abschlussarbeit (Bachelor / Master) - Specialist AI Vision & Defect Analysis](https://jobs.smartrecruiters.com/Aumovio/744000159310959) 🆕 | Ingolstadt, BY, Germany |  | 2026-11-03 |
 | OTTO FUCHS KG | [IT Experte - SAP Release & Test Management (m/w/x) intern](https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000159304859) 🆕 | Meinerzhagen, NRW, Germany |  | 2026-11-03 |
-| Amazon | [SLAM / Computer Vision Intern, RIVR](https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr) 🆕 | Zurich, CH |  | 2026-11-03 |
-| KEYES | [Stage - AI Product Management and Adoption](https://keyescareers.eu/o/stage-ai-product-management-and-adoption) 🆕 | Herstal, Liège, Belgium |  | 2026-11-03 |
-| NVIDIA | [AI Compiler Intern, CUDA Tile IR - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069) 🆕 | Switzerland, Zurich |  | 2026-11-03 |
-| Roche | [Internship - Data and Digital Enablement (PRLABD) (m/f/d)](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Penzberg/Internship---Data-and-Digital-Enablement--PRLABD-_202610-126742-3) 🆕 | Penzberg |  | 2026-11-03 |
-| Air Liquide | [Internship – HSE Analytics & Digital Safety Junior Project Manager M/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Internship---HSE-Analytics---Digital-Safety-Junior-Project-Manager-M-F_R10102035) 🆕 | France, Paris |  | 2026-11-03 |
-| Air Liquide | [STAGE - Optimisation de la gestion des données - télémonitoring de la protection cathodiqu](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Bagneux/STAGE---Optimisation-de-la-gestion-des-donnes---tlmonitoring-de-la-protection-cathodique-des-canalisations-de-transport-de-gaz_R10103889) 🆕 | France, Bagneux |  | 2026-11-03 |
-| Sanofi | [stage 6 mois informatique et données clinique](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois-science-des-donnes-clinique_R2873753) 🆕 | Montpellier |  | 2026-11-03 |
-| Zeiss | [Praktikum/Praxissemester / Softwareentwicklung / Inbetriebnahme- und Servicesoftware (m/w/](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Praktikum-Praxissemester---Softwareentwicklung---Inbetriebnahme--und-Servicesoftware--m-w-x-_JR_1051684-3) 🆕 | Oberkochen |  | 2026-11-03 |
-| ASML | [Artificial Intelligence / Computer Science internship: AI-powered document review](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-powered-document-review_J-00355284) 🆕 | Veldhoven, Netherlands |  | 2026-11-03 |
-| ASML | [Computer Science / Data Science internship: failure pattern analysis](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Data-Science-internship--failure-pattern-analysis_J-00356388) 🆕 | Veldhoven, Netherlands |  | 2026-11-03 |
-| Ferrovial | [AI Program Internship](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Madrid/AI-Program-Internship_JR19467) 🆕 | Madrid |  | 2026-11-03 |
-| Ferrovial | [AI Engineer Internship](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Madrid/AI-Engineer-Internship_JR19380) 🆕 | Madrid |  | 2026-11-03 |
-| Pierre Fabre | [Data Long Terme - Stage - H/F](https://pierrefabre.wd3.myworkdayjobs.com/External_Career_Site/job/France---Castres---Praudel/Data-Long-Terme---Stage---H-F_JR114462) 🆕 | France - Castres - Péraudel |  | 2026-11-03 |
-| Signify | [Data Analyst Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Data-Analyst-Intern_366375) 🆕 | Eindhoven |  | 2026-11-03 |
+| Siemens Healthineers | [Praktikum - Data Analytics & Technical Monitoring for X-Ray Systems](https://careers.siemens-healthineers.com/global/en/job/P-101096) | Forchheim, Bavaria, Germany |  | 2026-11-03 |
+| Schneider Electric | [People Analytics Trainee STP27](https://se.jibeapply.com/jobs/140561) | Biscay, Spain |  | 2026-11-03 |
+| Schneider Electric | [Supply Chain Digitalization & Data Analyst Trainee STP27](https://se.jibeapply.com/jobs/140107) | Biscay, Spain |  | 2026-11-03 |
+| Schneider Electric | [Data Analyst Intern STP27](https://se.jibeapply.com/jobs/140214) | Barcelona, Spain |  | 2026-11-03 |
+| Amazon | [SLAM / Computer Vision Intern, RIVR](https://www.amazon.jobs/en/jobs/10595274/slam-computer-vision-intern-rivr) | Zurich, CH |  | 2026-11-03 |
+| KEYES | [Stage - AI Product Management and Adoption](https://keyescareers.eu/o/stage-ai-product-management-and-adoption) | Herstal, Liège, Belgium |  | 2026-11-03 |
+| Accenture | [AI Engineering Internship](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Amsterdam/AI-Engineering-Internship_R00367336) | Amsterdam |  | 2026-11-03 |
+| NVIDIA | [AI Compiler Intern, CUDA Tile IR - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Intern--CUDA-Tile-IR---Summer-2027_JR2029069) | Switzerland, Zurich |  | 2026-11-03 |
+| Roche | [Internship - Data and Digital Enablement (PRLABD) (m/f/d)](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Penzberg/Internship---Data-and-Digital-Enablement--PRLABD-_202610-126742-3) | Penzberg |  | 2026-11-03 |
+| Air Liquide | [Internship – HSE Analytics & Digital Safety Junior Project Manager M/F](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Paris/Internship---HSE-Analytics---Digital-Safety-Junior-Project-Manager-M-F_R10102035) | France, Paris |  | 2026-11-03 |
+| Air Liquide | [STAGE - Optimisation de la gestion des données - télémonitoring de la protection cathodiqu](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Bagneux/STAGE---Optimisation-de-la-gestion-des-donnes---tlmonitoring-de-la-protection-cathodique-des-canalisations-de-transport-de-gaz_R10103889) | France, Bagneux |  | 2026-11-03 |
+| Sanofi | [stage 6 mois informatique et données clinique](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Montpellier/stage-6-mois-science-des-donnes-clinique_R2873753) | Montpellier |  | 2026-11-03 |
+| Zeiss | [Praktikum/Praxissemester / Softwareentwicklung / Inbetriebnahme- und Servicesoftware (m/w/](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Praktikum-Praxissemester---Softwareentwicklung---Inbetriebnahme--und-Servicesoftware--m-w-x-_JR_1051684-3) | Oberkochen |  | 2026-11-03 |
+| ASML | [Artificial Intelligence / Computer Science internship: AI-powered document review](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Artificial-Intelligence---Computer-Science-internship--AI-powered-document-review_J-00355284) | Veldhoven, Netherlands |  | 2026-11-03 |
+| ASML | [Computer Science / Data Science internship: failure pattern analysis](https://asml.wd3.myworkdayjobs.com/ASMLEXT1/job/Veldhoven-Netherlands/Computer-Science---Data-Science-internship--failure-pattern-analysis_J-00356388) | Veldhoven, Netherlands |  | 2026-11-03 |
+| Ferrovial | [AI Program Internship](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Madrid/AI-Program-Internship_JR19467) | Madrid |  | 2026-11-03 |
+| Ferrovial | [AI Engineer Internship](https://ferrovial.wd3.myworkdayjobs.com/Ferrovial_Career_Site/job/Madrid/AI-Engineer-Internship_JR19380) | Madrid |  | 2026-11-03 |
+| Pierre Fabre | [Data Long Terme - Stage - H/F](https://pierrefabre.wd3.myworkdayjobs.com/External_Career_Site/job/France---Castres---Praudel/Data-Long-Terme---Stage---H-F_JR114462) | France - Castres - Péraudel |  | 2026-11-03 |
+| Signify | [Data Analyst Intern](https://lighting.wd3.myworkdayjobs.com/jobs-and-careers/job/Eindhoven/Data-Analyst-Intern_366375) | Eindhoven |  | 2026-11-03 |
 | BUT | [Alternant chef de produits web](https://jobs.smartrecruiters.com/BUT2/744000159199044) | Émerainville, Région Île-de-France, France |  | 2026-11-02 |
 | Harmattan AI | [IT Support Apprentice](https://jobs.ashbyhq.com/harmattan-ai/38569510-0814-4563-aa97-3aad57ad6684) | Paris |  | 2026-11-02 |
 | Axelera AI | [Hardware Lab Engineer Intern](https://jobs.ashbyhq.com/axelera/cac5f1c7-2eb7-4bfe-b67f-dfc23dc59c16) | Florence (on-site) |  | 2026-11-02 |
@@ -197,16 +202,20 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Stanley/Stella BE | [Supply Chain & Data Analyst Intern](https://stanley-stella.jobs.personio.de/job/2871432) | Belgium (HQ) |  | 2026-11-02 |
 | OCTO Technology | [Stage - Coach Lean IT et Excellence Opérationnelle dans les programmes de delivery - F/H/N](https://jobs.smartrecruiters.com/OCTOTechnology/744000159112619) | Paris, IDF, France |  | 2026-11-02 |
 | Bertelsmann-Jobs | [Trainee IT-Consulting Energiewirtschaft (m/w/d)](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000159065599) | Leipzig, Sachsen, Germany; Rostock, Mecklenburg-Vorpommern, Germany; Köln, Nordrhein-Westfalen, Germany |  | 2026-11-02 |
+| Schneider Electric | [Prácticas en Project Management – Cloud & Services Provider STP27](https://se.jibeapply.com/jobs/140414) | San Sebastian de los Reyes, Spain |  | 2026-11-02 |
+| Schneider Electric | [Project Engineering – Data Centers Intern STP27](https://se.jibeapply.com/jobs/140084) | Sant Boi de Llobregat, Spain |  | 2026-11-02 |
 | Accso – Accelerated Solutions GmbH | [Werkstudent* Software Engineering](https://accso.recruitee.com/o/werkstudent-software-engineering-2) | Darmstadt, Hessen, Deutschland |  | 2026-11-02 |
 | Koninklijk Nederlands Lucht- en Ruimtevaartcentrum | [Internship: Explainable AI for the qualification of aerospace algorithms](https://werkenbijnlr.recruitee.com/o/internship-explainable-ai-for-the-qualification-of-aerospace-algorithms) | Amsterdam, Noord-Holland, Nederland |  | 2026-11-02 |
 | Koninklijk Nederlands Lucht- en Ruimtevaartcentrum | [Internship: Designing a flexible robotics research platform](https://werkenbijnlr.recruitee.com/o/internship-designing-a-flexible-robotics-research-platform) | Amsterdam, Noord-Holland, Nederland |  | 2026-11-02 |
 | Dell Technologies | [Data & AI Intern](https://iawmqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/careers/job/300848) | Bratislava, Bratislavsky kraj, Slovakia |  | 2026-11-02 |
+| L'Oréal | [STAGE 6 MOIS - À partir de juillet 2027 – IP & IT  – Master 2 ou PPI](https://careers.loreal.com/en/job/levallois-perret/stage-6-mois-a-partir-de-juillet-2027-ip-and-it-master-2-ou-ppi/3456/45424994624) | Levallois-Perret, Île-de-France, France |  | 2026-11-02 |
+| L'Oréal | [WORKING STUDENT (m/f/d) Data & Analytics from January 2027](https://careers.loreal.com/en/job/dusseldorf/working-student-m-f-d-data-and-analytics-from-january-2027/3456/45060344640) | Düsseldorf, North Rhine-Westphalia, Germany |  | 2026-11-02 |
 | RTX | [STAGE – Tests de cybersécurité assistés par IA](https://globalhr.wd5.myworkdayjobs.com/REC_RTX_Ext_Gateway/job/FR-OCC-BLAGNAC-BAT-CASS--4-Ave-Didier-Daurat--DAURAT/STAGE---Tests-de-cyberscurit-assists-par-IA_01884078) | FR-OCC-BLAGNAC-BAT CASS ~ 4 Ave Didier Daurat ~ DAURAT |  | 2026-11-02 |
 | NVIDIA | [Relational Foundation Model Intern, Modern Data Stack – 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829) | Germany, Remote |  | 2026-11-02 |
 | Chanel | [STAGE - Data science, modélisation prédictive & analyse d’images](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Pantin/STAGE---Data-science--modlisation-prdictive---analyse-d-images_JOBREQ00118591) | Pantin |  | 2026-11-02 |
 | Chanel | [STAGE - COORDINATEUR(EUSE) GOUVERNANCE IT, IA & DATA VISUALISATION - HORLOGERIE JOAILLERIE](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/STAGE---COORDINATEUR-EUSE--GOUVERNANCE-IT--IA---DATA-VISUALISATION---HORLOGERIE-JOAILLERIE---JANVIER-2027---H-F-X_JOBREQ00118468) | Paris |  | 2026-11-02 |
-| Valeo | [Technical Trainee - Data Operator](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Prague/Technical-Trainee---Data-Operator_REQ2026082417) | Prague |  | 2026-11-02 |
 | Ecolab | [Power BI & Data Analytics Trainee](https://ecolab.wd1.myworkdayjobs.com/Ecolab_External/job/ESP---Catalonia---Barcelona/Project-Engineer-Trainee_R00306859) | ESP - Catalonia - Barcelona |  | 2026-11-02 |
+| Valeo | [Technical Trainee - Data Operator](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Prague/Technical-Trainee---Data-Operator_REQ2026082417) | Prague |  | 2026-11-02 |
 | Motorola | [Intern Software Developer (React/JS)](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-Software-Developer--React-JS-_R68879) | Krakow, Poland |  | 2026-11-02 |
 | Intel | [DevOps Software Engineering Intern](https://intel.wd1.myworkdayjobs.com/External/job/Poland-Gdansk/DevOps-Software-Engineering-Intern_JR0288633) | Poland, Gdansk |  | 2026-11-02 |
 | ING | [Internship Software Development – Java & AI](https://ing.wd3.myworkdayjobs.com/ICSGBLCOR/job/HBP-Amsterdam---Haarlerbergpark/Internship-Software-Development---Java---AI_REQ-10124124) | HBP (Amsterdam - Haarlerbergpark) |  | 2026-11-02 |
@@ -214,7 +223,7 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Flexion Robotics | [Internship - Robotics Manipulation](https://apply.workable.com/j/D59C7722BC) | Zürich, Zurich, Switzerland |  | 2026-11-02 |
 | Quandela | [Product Management for a Quantum Computing Learning Platform Intern (H1/2027)](https://apply.workable.com/j/7DE1AD7FB0) | Massy, Île-de-France, France |  | 2026-11-02 |
 | Tensordyne | [Working Student - LLM Inference Performance](https://job-boards.greenhouse.io/tensordyne/jobs/8926410002) | Munich, Germany |  | 2026-11-01 |
-| AXA | [Security Risk analyst (F/H) - stage](https://candidature-recrutement.axa.fr/parcours/JobDetail?pipelineId=37095) | NANTERRE, France |  | 2026-10-31 |
+| AXA | [Security Risk analyst (F/H) - stage](https://careers.axa.com/jobs/37095) | NANTERRE, France |  | 2026-10-31 |
 | NVIDIA | [Developer Technology Engineering Intern - Compute Performance](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Germany-Munich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2026775) | Germany, Munich |  | 2026-10-31 |
 | NVIDIA | [Developer Tools DevOps Engineering Intern - 2027](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826) | Poland, Warsaw |  | 2026-10-31 |
 | NVIDIA | [Image and Data Processing Libraries Intern](https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/Poland-Warsaw/Image-and-Data-Processing-Libraries-Intern_JR2026517) | Poland, Warsaw |  | 2026-10-31 |
@@ -230,11 +239,13 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | RTE | [Stage - Chargé de projets Intelligence Artificielle et Data F/H](https://jobs.smartrecruiters.com/RTE1/744000158680819) | Morières-lès-Avignon, Provence-Alpes-Côte d'Azur, France |  | 2026-10-30 |
 | DEPT® | [Data Engineer Trainee](https://job-boards.greenhouse.io/dept/jobs/8336469) | Budapest |  | 2026-10-30 |
 | Rabot Energy | [Working Student (m/f/d) Cloud Engineering](https://ats.rippling.com/rabot-energy/jobs/538e48c0-5451-4d48-b607-1662b06d5b45) | Hamburg, Germany |  | 2026-10-30 |
+| Thermo Fisher Scientific | [Software Engineering / AI Engineering Intern](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Software-Engineering---AI-Engineering-Intern_R-01374129-1) | Eindhoven, Netherlands |  | 2026-10-30 |
 | cbs Corporate Business Solutions GmbH | [Masterarbeit/Werkstudent – Agentic AI & Multi-Agenten-Systeme (m/w/d)](https://cbsconsulting.recruitee.com/o/masterarbeitwerkstudent-agentic-ai-multi-agenten-systeme-mwd) | Heidelberg, Baden-Württemberg, Deutschland |  | 2026-10-30 |
 | Metyis AG | [Data  & Analytics Intern - January 2027](https://metyisag.recruitee.com/o/data-analytics-intern-january-2027-2028) | Barcelona, Catalunya (Cataluña), Spain; Madrid, Comunidad de Madrid, Spain |  | 2026-10-30 |
 | OPEN.nl Software Group | [Stage bij Open.nl Software (Diverse opdrachten)](https://opennl.recruitee.com/o/stage) | Amersfoort, Utrecht, Nederland |  | 2026-10-30 |
 | Nokia | [Financial Data Engineering / Business Data Analytics Trainee — Patent Portfolio Management](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41680) | Finland |  | 2026-10-30 |
 | Honeywell | [Intern Bachelors - Software Engineering (QA Automation) (1-year full-time contract)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159184) | Bucuresti, Romania |  | 2026-10-30 |
+| L'Oréal | [6-MONTH INTERNSHIP - Starting January 2027 – Data Product Owner – Master's ½ - €1700/month](https://careers.loreal.com/en/job/paris/6-month-internship-starting-january-2027-data-product-owner-master-s-1700-month/3456/46477814528) | Paris, Île-de-France, France |  | 2026-10-30 |
 | ABB | [Student Internship - Front-End Software Development](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Krakow-Lesser-Poland-Poland/Internship---FrontEnd-Software-Engineer_JR00034867) | Krakow, Lesser Poland, Poland |  | 2026-10-30 |
 | Chanel | [Stage - Data & IA Engineer — Data Factory (H/F/X) - Mode – Février ou Mars 2027](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Paris/Stage---Data---IA-Engineer---Data-Factory--H-F-X----Mode---Fvrier-ou-Mars-2027_JOBREQ00118231-3) | Paris |  | 2026-10-30 |
 | Procter & Gamble | [AI & Data Analytics Internship](https://pg.wd5.myworkdayjobs.com/1000/job/BUCHAREST-OFFICE/Data-Analytics-Internship_R000161621) | BUCHAREST OFFICE |  | 2026-10-30 |
@@ -250,15 +261,16 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Continental Group Sector ContiTech | [Duales Studium - IT Management and SAP Consulting B. Sc.  (m/w/d)](https://jobs.smartrecruiters.com/ContinentalGroupSectorContiTech/744000158524264) | Eschborn, HE, Germany |  | 2026-10-29 |
 | Aumovio | [IT Trainee](https://jobs.smartrecruiters.com/Aumovio/744000158510759) | Zvolen, Banskobystrický kraj, Slovakia (Slovak Republic) |  | 2026-10-29 |
 | NielsenIQ | [NIQ Early Career Program: Werkstudent Marktforschung Analytics (m/w/d)](https://jobs.smartrecruiters.com/NielsenIQ/744000158474470) | Frankfurt, HE, Germany |  | 2026-10-29 |
-| AXA | [Stagiaire en protection des données (F/H) - stage](https://candidature-recrutement.axa.fr/parcours/JobDetail?pipelineId=37096) | NANTERRE, France |  | 2026-10-29 |
+| AXA | [Stagiaire en protection des données (F/H) - stage](https://careers.axa.com/jobs/37096) | NANTERRE, France |  | 2026-10-29 |
 | Reonic | [AI Product Manager Intern - (AI x Greentech) (m/f/d)](https://jobs.ashbyhq.com/reonic/1f2083ea-7dba-47ff-8429-f4bed27e224c) | Augsburg |  | 2026-10-29 |
 | Reonic | [Software Engineer Intern - (AI x Greentech) (m/f/d)](https://jobs.ashbyhq.com/reonic/1e64e8ef-224e-4c03-9e63-851623370638) | Augsburg |  | 2026-10-29 |
 | ALTEN | [Stage Développeur - Outils Projets (H/F)](https://jobs.smartrecruiters.com/ALTEN/744000158457331) | Grenoble, Auvergne-Rhône-Alpes, France |  | 2026-10-29 |
 | Deloitte | [Praktikant:in (all genders) – Advisory/Data Science & AI in Financial Services Industry / ](https://jobs.smartrecruiters.com/DeloitteAT/744000158456879) | Wien, Austria |  | 2026-10-29 |
 | Bertelsmann-Jobs | [Trainee - Central IT (m/f/d)](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000158447469) | Verl, Nordrhein-Westfalen, Germany |  | 2026-10-29 |
+| GE HealthCare | [stage -Nouveaux développements en traitement d’images et Deep Learning pour la mammographi](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Buc/stage--Nouveaux-dveloppements-en-traitement-d-images-et-Deep-Learning-pour-la-mammographie_R4048631-1) | Buc, Yvelines, France; Buc |  | 2026-10-29 |
+| Marsh McLennan | [Praktikant:in Quantitative Investments (m/w/d)](https://mmc.wd1.myworkdayjobs.com/MMC/job/Munich---Mllerstrasse/Praktikant-in-Quantitative-Investments--m-w-d-_R_370852) | München, Germany |  | 2026-10-29 |
 | Nokia | [Software Development Trainee](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40305) | Portugal |  | 2026-10-29 |
 | Roche | [Internship - AI Metadata Augmentation](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Kaiseraugst/Internship---AI-Metadata-Augmentation_202609-123518) | Kaiseraugst |  | 2026-10-29 |
-| GE Healthcare | [stage -Nouveaux développements en traitement d’images et Deep Learning pour la mammographi](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Buc/stage--Nouveaux-dveloppements-en-traitement-d-images-et-Deep-Learning-pour-la-mammographie_R4048631-1) | Buc |  | 2026-10-29 |
 | Valeo | [Technical Trainee - Python + AI development](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Prague/Technical-Trainee---Python---AI-development_REQ2026082875) | Prague |  | 2026-10-29 |
 | Merck | [Intern – Master Statistics/Bioinformatics– Global Statistics and Data Management](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/NLD---North-Brabant---Boxmeer/Intern---Master-Statistics-Bioinformatics--Global-Statistics-and-Data-Management_R424236-1) | NLD - North Brabant - Boxmeer |  | 2026-10-29 |
 | Zeiss | [Internship – Next-Generation System Interaction with Eye-Tracking and Robotics (f/m/x)](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Oberkochen/Internship-in-Next-Generation-System-Interaction-with-Eye-Tracking--f-m-x-_JR_1045462) | Oberkochen |  | 2026-10-29 |
@@ -293,13 +305,14 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Playtech | [QA Engineer (Intern)](https://jobs.smartrecruiters.com/Playtech/744000158069569) | Kyiv, Ukraine |  | 2026-10-27 |
 | Prosus | [AI Automation Intern (Sustainability)](https://jobs.ashbyhq.com/prosus/0e900995-e270-4dbd-9c92-448af821b442) | Amsterdam |  | 2026-10-27 |
 | Eleks | [Trainee / Junior PHP Developer, JR895](https://jobs.lever.co/eleks/7cd12d3e-8d68-48f0-b23c-4da3241c85ab) | Lviv |  | 2026-10-27 |
+| GE HealthCare | [Advanced Visualization software engineering intern](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/HUN02-01-Budapest-Vaci-Greens-C/Advanced-Visualization-software-engineering-intern_R4044596-1) | Budapest, Budapest, Hungary; HUN02-01-Budapest-Vaci Greens C |  | 2026-10-27 |
+| Siemens Healthineers | [Werkstudent*in (w/m/d) im Testcenter – Laborinfrastuktur  – Labor IT](https://careers.siemens-healthineers.com/global/en/job/P-100973) | Kemnath, Bavaria, Germany |  | 2026-10-27 |
 | GE Vernova | [Stage ingénieur traitement de données diélectriques](https://gevernova.wd5.myworkdayjobs.com/Only_Confidential_Executive_Recruiting/job/Villeurbanne/Stage-ingnieur-traitement-de-donnes-dilectriques_R5057271-1) | Villeurbanne |  | 2026-10-27 |
 | Roche | [Internship - Software and Data Engineer (for 12 months in Rotkreuz)](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Rotkreuz/Internship---Software-and-Data-Engineer--for-12-months-in-Rotkreuz-_202610-127501) | Rotkreuz |  | 2026-10-27 |
-| GE Healthcare | [Advanced Visualization software engineering intern](https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/HUN02-01-Budapest-Vaci-Greens-C/Advanced-Visualization-software-engineering-intern_R4044596-1) | HUN02-01-Budapest-Vaci Greens C |  | 2026-10-27 |
-| Air Liquide | [STAGE ENERGIE MANAGEMENT - DATA - INNOVATION F/H](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Bagneux-Symbiose---Management---ALFI-LI/STAGE-ENERGIE-MANAGEMENT---DATA---INNOVATION-F-H_R10103982) | Bagneux Symbiose - Management - ALFI LI |  | 2026-10-27 |
 | Valeo | [Alternant(e) – Ingénieur Cloud & Tests Logiciels – Digital Key (F/H)](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Crteil/Alternant-e----Ingnieur-Cloud---Tests-Logiciels---Digital-Key--F-H-_REQ2026082684-1) | Créteil |  | 2026-10-27 |
 | Valeo | [Alternant(e) – Logiciel embarqué / Conception / Génie logiciel (F/H)](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/CRETEIL---CRE1/Alternant-e----Logiciel-embarqu---Conception---Gnie-logiciel--F-H-_REQ2026082683-1) | CRETEIL - CRE1 |  | 2026-10-27 |
 | KION Group | [Duales Studium - Bachelor (B.Sc.) Informatik 2027](https://kiongroup.wd3.myworkdayjobs.com/KIONGroup/job/Frankfurt-am-Main-Germany/Duales-Studium---Bachelor--BSc--Wirtschaftsinformatik-2027_JR-0095994) | Frankfurt am Main, Germany |  | 2026-10-27 |
+| Air Liquide | [STAGE ENERGIE MANAGEMENT - DATA - INNOVATION F/H](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/Bagneux-Symbiose---Management---ALFI-LI/STAGE-ENERGIE-MANAGEMENT---DATA---INNOVATION-F-H_R10103982) | Bagneux Symbiose - Management - ALFI LI |  | 2026-10-27 |
 | Motorola | [Intern DevOps Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Intern-DevOps-Engineer_R69906) | Krakow, Poland |  | 2026-10-27 |
 | Zeiss | [Internship in AI & Machine Learning (f/m/x)](https://zeissgroup.wd3.myworkdayjobs.com/External/job/Karlsruhe/Internship-in-AI---Machine-Learning--f-m-x-_JR_1054317) | Karlsruhe |  | 2026-10-27 |
 | Procter & Gamble | [Supply Chain Network – Internship (m/f/d)](https://pg.wd5.myworkdayjobs.com/1000/job/Schwalbach-Am-Taunus/Supply-Chain-Network---Internship--m-f-d-_R000153895) | Schwalbach Am Taunus |  | 2026-10-27 |
@@ -324,8 +337,8 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | TYTAN Technologies GmbH | [Working Student - Interceptor Data Analytics (m/f/d)](https://tytantechnologiesgmbh.recruitee.com/o/working-student-interceptor-data-analytics-mfd) | Munich, Bayern, Germany |  | 2026-10-26 |
 | ABB | [Internship - OT Cybersecurity](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Genova-Genova-Italy/Internship---Cybersecurity-for-OT-Systems_JR00042894) | Genova, Genova, Italy |  | 2026-10-26 |
 | Chanel | [STAGE - Assistant Chargé de Projet Data & Amélioration Continue](https://cc.wd3.myworkdayjobs.com/ChanelCareers/job/Pantin/STAGE---Assistant-Charg-de-Projet-Data---Amlioration-Continue_JOBREQ00118355-3) | Pantin |  | 2026-10-26 |
-| Air Liquide | [Stage - AI Specialist (H/F)](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Bagneux/Stage---AI-Specialist--H-F-_R10103849) | France, Bagneux |  | 2026-10-26 |
 | Valeo | [Technical Trainee - AI & LLM Automation](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Prague/Technical-Trainee---AI---LLM-Automation_REQ2026081510) | Prague |  | 2026-10-26 |
+| Air Liquide | [Stage - AI Specialist (H/F)](https://airliquidehr.wd3.myworkdayjobs.com/AirLiquideExternalCareer/job/France-Bagneux/Stage---AI-Specialist--H-F-_R10103849) | France, Bagneux |  | 2026-10-26 |
 | Heartbeat AI GmbH | [Werkstudent:in AI & Automation - Energy (m/w/d)](https://1komma5grad.jobs.personio.de/job/2859433) | Berlin |  | 2026-10-24 |
 | Pliant | [Working Student – Compliance Automation & AI (m/f/d)](https://jobs.ashbyhq.com/pliant/c17d9608-4f0f-4136-bf53-8e84d3b7a84a) | Berlin, Germany (Hybrid) |  | 2026-10-23 |
 | Ubisoft | [Data Governance Project Manager Assistant – Internship (6-month) March 2027 (W/M/NB)](https://jobs.smartrecruiters.com/Ubisoft2/744000157499729) | Paris, IDF, France |  | 2026-10-23 |
@@ -341,6 +354,7 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Coface | [Stage - Data Scientist / ML Engineer (H/F)](https://jobs.smartrecruiters.com/Coface/744000157416972) | Bois-Colombes, IDF, France |  | 2026-10-23 |
 | Coface | [Stage - Software Engineer Python (H/F)](https://jobs.smartrecruiters.com/Coface/744000157416704) | Bois-Colombes, IDF, France |  | 2026-10-23 |
 | ALTEN | [Ingénieur Développeur Frontend (H/F)](https://jobs.smartrecruiters.com/ALTEN/744000157397579) | Toulouse, Occitanie, France |  | 2026-10-23 |
+| Boston Consulting Group | [Working Student—IT Service Team(all genders)](https://experiencedtalent.bcg.com/careerhub/explore/jobs/790319085506?post_onboarding_pid=790319085506&amp;show_apply=1&amp;profile_type=candidate&amp;customredirect=1&utm_source=Phenom) | Berlin, Germany |  | 2026-10-23 |
 | Amazon | [2027 Applied Scientist Internship – PhD, Amazon University Talent Acquisition](https://www.amazon.jobs/en/jobs/10587678/2027-applied-scientist-internship-phd-amazon-university-talent-acquisition) | Turin, IT |  | 2026-10-23 |
 | Merck | [Intern – HBO/WO Business administration or Data Analytics – Intellectual Property](https://msd.wd5.myworkdayjobs.com/SearchJobs/job/NLD---North-Brabant---Boxmeer/Intern---HBO-WO-Business-administration-or-Data-Analytics---Intellectual-Property_R421707-1) | NLD - North Brabant - Boxmeer |  | 2026-10-23 |
 | Sanofi | [internship 6 months data and ia engineer](https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Lyon/internship-6-months-data-and-ia-engineer_R2873938) | Lyon |  | 2026-10-23 |
@@ -349,7 +363,7 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Michelin | [Stage développeur :  Data Mining & traitement d'image pour la microscopie (F/H) Clermont-F](https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/Clermont-Ferrand/Stage-dveloppeur----Data-Mining---traitement-d-image-pour-la-microscopie--F-H--Clermont-Fd_R-2026037815) | Clermont-Ferrand |  | 2026-10-23 |
 | Tencent | [SRE Intern](https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/Netherlands-Amsterdam/SRE-Intern_R108291) | Netherlands-Amsterdam |  | 2026-10-23 |
 | Quandela | [IT Support & Infrastructure Intern (H1/2027)](https://apply.workable.com/j/D167289382) | Massy, Île-de-France, France |  | 2026-10-23 |
-| AXA | [Internship - M365 Power Platform, Data and AI intern](https://careers-en-axa.icims.com/jobs/29576/login) | PARIS, France |  | 2026-10-22 |
+| AXA | [Internship - M365 Power Platform, Data and AI intern](https://careers.axa.com/jobs/29576) | PARIS, France |  | 2026-10-22 |
 | Scalable GmbH | [Working Student IT-Support (m/f/x)](https://jobs.smartrecruiters.com/ScalableGmbH/744000157142259) | München, BY, Germany |  | 2026-10-22 |
 | SOCOTEC | [(STAGE) Data Scientist H/F](https://jobs.smartrecruiters.com/Socotec/744000157135861) | Palaiseau, IDF, France |  | 2026-10-22 |
 | SOCOTEC | [(STAGE) AI Engineer H/F](https://jobs.smartrecruiters.com/Socotec/744000157137298) | Palaiseau, IDF, France |  | 2026-10-22 |
@@ -363,17 +377,8 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | SQLI | [Développeur Full-Stack Java / Angular - Stage de fin d'études F/H](https://jobs.smartrecruiters.com/SQLI1/744000157071499) | Lyon, Auvergne-Rhône-Alpes, France |  | 2026-10-22 |
 | RTE | [Stage PFE - Concepteur Développeur d'Applications F/H](https://jobs.smartrecruiters.com/RTE1/744000157069739) | Villers-lès-Nancy, Grand Est, France |  | 2026-10-22 |
 | Horse Powertrain | [Internship IS/IT SAP](https://jobs.horse-powertrain.com/jobs/8588529-internship-is-it-sap) | Mioveni, Romania |  | 2026-10-22 |
+| Siemens Healthineers | [Werkstudent*in (w/m/d) Ausbildung mit Fokus IT](https://careers.siemens-healthineers.com/global/en/job/P-101014) | Erlangen, Bavaria, Germany |  | 2026-10-22 |
 | Drees & Sommer SE | [Praktikant (w/m/d) Real Estate IT- Consulting](https://jobs.smartrecruiters.com/DreesSommerSE/744000157047499) | Stuttgart, BW, Germany |  | 2026-10-22 |
-| Centric | [Stage: Software Developer](https://centric.recruitee.com/o/stage-software-developer) | Gouda, Zuid-Holland, Nederland |  | 2026-10-22 |
-| Hilton Worldwide | [Strategic Data Analysis Internship](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/228508) | Amsterdam, Noord-Holland, Netherlands |  | 2026-10-22 |
-| Emerson Electric | [Internship: AI-based Test & Measurement Workflows](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012511) | DRESDEN, SACHSEN, Germany |  | 2026-10-22 |
-| ABB | [MSc or BSc Thesis / Internship (m/f/d) AI for Intent-Based Networking](https://abb.wd3.myworkdayjobs.com/External_Career_Page/job/Mannheim-Baden-Wurttemberg-Germany/MSc-or-BSc-Thesis---Internship--m-f-d--AI-for-Intent-Based-Networking_JR00043251-1) | Mannheim, Baden-Wurttemberg, Germany |  | 2026-10-22 |
-| Danaher | [Intern PLC developer thesis worker](https://danaher.wd1.myworkdayjobs.com/DanaherJobs/job/Uppsala-Sweden/Intern-PLC-developer-thesis-worker_R1320652) | Uppsala, Sweden |  | 2026-10-22 |
-| Analog Devices | [Software QA Intern](https://analogdevices.wd1.myworkdayjobs.com/External/job/Spain-Valencia-Cortes-Valencianas/Software-QA-Intern_R267125) | Spain, Valencia, Cortes Valencianas |  | 2026-10-22 |
-| Intel | [Software Development Intern (m/f/d)](https://intel.wd1.myworkdayjobs.com/External/job/Germany-Munich/Software-Development-Intern--m-f-d-_JR0288215) | Germany, Munich |  | 2026-10-22 |
-| Cadence Design Systems | [Intern: AI for Smarter ATE Test Development & Debug](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/VALBONNE-Sophia/Intern--AI-for-Smarter-ATE-Test-Development---Debug_R56811-1) | VALBONNE (Sophia) |  | 2026-10-22 |
-| Cadence Design Systems | [Intern: AI for Silicon Test Data Analytics & Failure Analysis](https://cadence.wd1.myworkdayjobs.com/External_Careers/job/VALBONNE-Sophia/Intern--AI-for-Silicon-Test-Data-Analytics---Failure-Analysis_R56810-1) | VALBONNE (Sophia) |  | 2026-10-22 |
-| Nissan Global | [Industrial Automation & Robotics Engineer Graduate Trainee](https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Cantabria/Production---Industrial-Automation-Engineering--Graduate-Trainee_R00213377-1) | Cantabria |  | 2026-10-22 |
 
 ## New grad: UK & Ireland
 
@@ -388,15 +393,16 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Two Sigma | [Software Engineering Full-Time Campus Hire - London](https://careers.twosigma.com/careers/JobDetail/London-United-Kingdom-of-Great-Britain-and-Northern-Ireland-Software-Engineering-Full-Time-Campus-Hire-London/14020) 🆕 | London, GB |  | 2026-11-04 |
 | Bosch Group | [Vehicle Dynamics Software Engineer Graduate](https://jobs.smartrecruiters.com/BoschGroup/744000159679514) 🆕 | Nuneaton, England, United Kingdom |  | 2026-11-04 |
 | Frasers Group | [IT Service Desk Junior Analyst](https://jobs.smartrecruiters.com/FrasersGroup/744000159605529) 🆕 | Shirebrook, England, United Kingdom |  | 2026-11-04 |
-| Publicis Groupe Holdings B.V | [Junior Data Analyst (Social Data & Automation)](https://careers-publicisgroupe.icims.com/jobs/179413/login) 🆕 | London, United Kingdom |  | 2026-11-04 |
+| Publicis Groupe Holdings B.V | [Junior Data Analyst (Social Data & Automation)](https://careers.publicisgroupe.com/jobs/179413) 🆕 | London, United Kingdom |  | 2026-11-04 |
+| Cushman & Wakefield | [Junior Analytics Engineer](https://cw.wd1.myworkdayjobs.com/External/job/London-United-Kingdom/Junior-Analytics-Engineer_R342805) 🆕 | London, United Kingdom |  | 2026-11-04 |
 | DXC Technology | [Junior Oracle Database and Infrastructure Engineer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/UK114---BelfastUnited-KingdomUK114/Junior-Oracle-Infrastructure---Database-Engineer_51593405) 🆕 | UK114 - Belfast,United Kingdom(UK114) |  | 2026-11-04 |
 | Resonance | [Graduate Applied AI Engineer](https://jobs.ashbyhq.com/resonance/548a6de0-18d2-43df-88e4-a132e91d2089) 🆕 | London |  | 2026-11-03 |
 | ASOS | [Associate Data Engineer](https://jobs.smartrecruiters.com/ASOS/744000159449334) 🆕 | London, England, United Kingdom |  | 2026-11-03 |
-| Aon Corporation | [Data & Analytics - Graduate](https://ireland-careers-aon.icims.com/jobs/110698/login) 🆕 | Dublin, Ireland |  | 2026-11-03 |
+| Aon Corporation | [Data & Analytics - Graduate](https://jobs.aon.com/jobs/110698) 🆕 | Dublin, Ireland |  | 2026-11-03 |
 | MSX International | [Associate Software Engineer](https://jobs.smartrecruiters.com/MSXInternational/3743990016581766) 🆕 | Northampton, England, United Kingdom; Worcester, England, United Kingdom; Oxford, England, United Kingdom +1 more |  | 2026-11-03 |
 | EDITED | [Junior Data Scientist](https://jobs.ashbyhq.com/edited/0c669cd9-57fb-4021-bb86-628b04ab4da7) 🆕 | London Office |  | 2026-11-03 |
-| State Street | [Cyber Security Early Career Entry Program 2027](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Cyber-Security-Operations-Center-Early-Career-Placement-Program-2027_R-800620) 🆕 | Kilkenny, Ireland |  | 2026-11-03 |
-| LEAP Legal Software | [Junior IT Service Desk Engineer](https://apply.workable.com/j/8963E6CE3B) 🆕 | London, England, United Kingdom |  | 2026-11-03 |
+| State Street | [Cyber Security Early Career Entry Program 2027](https://statestreet.wd1.myworkdayjobs.com/Global/job/Kilkenny-Ireland/Cyber-Security-Operations-Center-Early-Career-Placement-Program-2027_R-800620) | Kilkenny, Ireland |  | 2026-11-03 |
+| LEAP Legal Software | [Junior IT Service Desk Engineer](https://apply.workable.com/j/8963E6CE3B) | London, England, United Kingdom |  | 2026-11-03 |
 | marshmallow | [Junior Pricing Data Scientist](https://jobs.ashbyhq.com/marshmallow/99c302d4-2772-4e23-bc03-55bfea905f66) | London |  | 2026-11-02 |
 | Bosch Group | [Graduate AI & Automation Engineer](https://jobs.smartrecruiters.com/BoschGroup/744000159172560) | Nuneaton, England, United Kingdom |  | 2026-11-02 |
 | Navan | [Junior Backend Software Engineer](https://navan.com/careers/openings?gh_jid=8336673) | London, UK |  | 2026-11-02 |
@@ -436,24 +442,24 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Beauhurst | [Junior Web Developer](https://job-boards.greenhouse.io/beauhurst/jobs/8375802002) | Nottingham |  | 2026-10-23 |
 | DXC Technology | [Junior Software Developer](https://dxctechnology.wd1.myworkdayjobs.com/DXCJobs/job/GBR---HAM---FARNBOROUGH/Junior-Software-Developer_51591502) | GBR - HAM - FARNBOROUGH |  | 2026-10-23 |
 | Anduril Industries | [2027 Early Career Software Engineer](https://boards.greenhouse.io/andurilindustries/jobs/5272481007?gh_jid=5272481007) | Dublin, Dublin, Ireland |  | 2026-10-22 |
-| Computershare | [Graduate AI Engineer](https://fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/13281) | Edinburgh, United Kingdom; Bristol, United Kingdom |  | 2026-10-22 |
-| McKesson | [Graduate Cyber Security Analyst (Cyber Academy)](https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/Cork/Graduate-Cyber-Security-Analyst--Cyber-Academy-_JR0155418) | Cork | EUR 34k-56k | 2026-10-22 |
-| CoStar Group | [AI Engineer I - Zonda - Glasgow, Scotland, United Kingdom](https://costar.wd1.myworkdayjobs.com/CoStarCareers/job/Glasgow-GB---Zonda/AI-Engineer-I---Zonda---Glasgow--Scotland--United-Kingdom_R40191) | Glasgow (GB) - Zonda |  | 2026-10-22 |
 
 ## New grad: Europe
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Schneider Electric | [Analyst I, IT Support Center](https://careers-se.icims.com/jobs/135438/login) 🆕 | PACY SUR EURE, France; LE VAUDREUIL, France; BEAUMONT LE ROGER, France; GUICHAINVILLE, Fra | EUR 34k-51k | October 21 |
+| Capgemini | [Associate Data Engineer](https://careers.capgemini.com/job/Aix-en-Provence-Associate-Data-Engineer/1195599501/) 🆕 | Aix-en-Provence, FR |  | 2026-11-04 |
+| Capgemini | [Ingénieure / Ingénieur Logiciel Junior](https://careers.capgemini.com/job/Toulouse-Ing%C3%A9nieure-Ing%C3%A9nieur-Logiciel-Junior/1412150833/) 🆕 | Toulouse, FR |  | 2026-11-04 |
 | Sopra Steria | [Data Junior con francés](https://jobs.smartrecruiters.com/SopraSteria1/744000159670839) 🆕 | Madrid, MADRID, Spain |  | 2026-11-04 |
 | Ajax Systems | [Junior QA Engineer](https://jobs.lever.co/ajax/6f117a7e-563c-4413-94f9-bb2e3ec750a5) 🆕 | Kyiv |  | 2026-11-04 |
 | OPTIVEUM sp. z o.o. | [Network Engineer – Campus LAN / Cisco Catalyst & Lancom](https://career.optiveum.com/jobs/8666144-network-engineer-campus-lan-cisco-catalyst-lancom) 🆕 | Wrocław, Poland |  | 2026-11-04 |
 | Demo Datos | [Junior QA Engineer](https://pasiona.jobs.personio.de/job/2875401) 🆕 | Barcelona |  | 2026-11-04 |
 | Playtech | [Junior Data Analyst](https://jobs.smartrecruiters.com/Playtech/744000159591129) 🆕 | Sofia, Bulgaria |  | 2026-11-04 |
 | CITECH | [Analyste Développeur COBOL Junior – Monétique / Autorisations (H/F)](https://jobs.smartrecruiters.com/CITECH/744000159568248) 🆕 | Strasbourg, Grand Est, France |  | 2026-11-04 |
+| IBM | [Software Developer 2027](https://careers.ibm.com/careers/JobDetail?jobId=140032) 🆕 | Krakow, PL |  | 2026-11-04 |
 | SCOR | [Junior Data Analyst](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5507) 🆕 | Bucuresti - Ilfov, Romania |  | 2026-11-04 |
 | Airbus | [SNR 2027 - Security & Gouvernance (ALL GENDER)](https://ag.wd3.myworkdayjobs.com/Airbus/job/Nantes-Area/SNR-2027---Security---Gouvernance--ALL-GENDER-_JR10454435) 🆕 | Nantes Area |  | 2026-11-04 |
 | Airbus | [Junior Software Platform Integration Engineer](https://ag.wd3.myworkdayjobs.com/Airbus/job/Getafe-Area/Senior-Software-Platform-Integration-Engineer_JR10430082-1) 🆕 | Getafe Area |  | 2026-11-04 |
+| Accenture | [Junior IT Support Engineer](https://accenture.wd103.myworkdayjobs.com/AccentureCareers/job/Brussels/Junior-IT-Support-Engineer_14748133) 🆕 | Brussels |  | 2026-11-04 |
 | Mastercard | [Junior Network Provisioning Engineer](https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/Waterloo-Belgium/Junior-Network-Provisioning-Engineer_R-293785) 🆕 | Waterloo, Belgium |  | 2026-11-04 |
 | Leonardo | [VEL - Ground Support Systems (GSS) SW Developer Junior](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/IT---Torino---Cso-Francia/VEL---Ground-Support-Systems--GSS--SW-Developer-Junior_R0034565) 🆕 | IT - Torino - C.so Francia |  | 2026-11-04 |
 | Kyndryl | [DevOps Specialist Junior](https://kyndryl.wd5.myworkdayjobs.com/KyndrylProfessionalCareers/job/Barcelona-Spain/DevOps-Specialist-Junior_R-71265) 🆕 | Barcelona, Spain |  | 2026-11-04 |
@@ -468,8 +474,10 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | OCA Global | [Técnico/a Junior de People Analytics y Gestión Administrativa](https://ocaglobal.teamtailor.com/jobs/8657331-tecnico-a-junior-de-people-analytics-y-gestion-administrativa) 🆕 | Barcelona, Spain |  | 2026-11-03 |
 | Teads | [Junior Software Engineer  - DR Delivery Team](https://job-boards.eu.greenhouse.io/teads1/jobs/5026047101) 🆕 | Ljubljana |  | 2026-11-03 |
 | Nebius | [Software Engineer (Early Talent)](https://careers.nebius.com/?gh_jid=5026027101) 🆕 | Amsterdam, Netherlands |  | 2026-11-03 |
-| Dentsu | [Junior Salesforce Developer](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Remote---Spain/Junior-Salesforce-Developer_R1136654) 🆕 | Remote - Spain |  | 2026-11-03 |
-| Revel Robotics | [Junior Data Collection Specialist](https://jobs.ashbyhq.com/revelrobotics/f8b76581-38c6-42df-96c7-1e3ede387835) 🆕 | Prague |  | 2026-11-02 |
+| Citi | [Technology - Cybersecurity, Full-Time Analyst, Hungary - Budapest, 2027](https://jobs.citi.com/job/budapest/technology-cybersecurity-full-time-analyst-hungary-budapest-2027/287/102810643536) | Budapest, 05, HU |  | 2026-11-03 |
+| Citi | [Technology - Infrastructure, Full-Time Analyst, Hungary - Budapest, 2027](https://jobs.citi.com/job/budapest/technology-infrastructure-full-time-analyst-hungary-budapest-2027/287/102810642704) | Budapest, 05, HU |  | 2026-11-03 |
+| Dentsu | [Junior Salesforce Developer](https://dentsuaegis.wd3.myworkdayjobs.com/DAN_GLOBAL/job/Remote---Spain/Junior-Salesforce-Developer_R1136654) | Remote - Spain |  | 2026-11-03 |
+| Revel Robotics | [Junior Data Collection Specialist](https://jobs.ashbyhq.com/revelrobotics/f8b76581-38c6-42df-96c7-1e3ede387835) | Prague |  | 2026-11-02 |
 | ILLUIN Technology | [Junior Applied AI Engineer](https://jobs.ashbyhq.com/illuin/6ca6c9f2-5d9e-4c2b-b11f-8f67fbc5c839) | Paris La Défense |  | 2026-11-02 |
 | OPTIVEUM sp. z o.o. | [Junior IT Analyst](https://career.optiveum.com/jobs/8650086-junior-it-analyst) | Warsaw, Poland |  | 2026-11-02 |
 | Sopra Steria | [Junior DevOps Engineer](https://jobs.smartrecruiters.com/SopraSteria1/744000159080630) | Nieuwegein, UT, Netherlands |  | 2026-11-02 |
@@ -477,6 +485,8 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Amazon | [Software Development Engineer - 2027](https://www.amazon.jobs/en/jobs/10594271/software-development-engineer-2027) | Iasi, RO; Madrid, M, ES; Luxembourg, LU |  | 2026-11-02 |
 | Honeywell | [Cyber Security Architect/Engineer I (m/f/d)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/159441) | Bucuresti, Romania |  | 2026-11-02 |
 | Honeywell | [Junior Software Engineer (m/f/d) - hybrid](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161294) | Gdansk, Pomorskie, Poland |  | 2026-11-02 |
+| Citi | [Technology - Infrastructure, Full Time Analyst, Warsaw 2027](https://jobs.citi.com/job/warsaw/technology-infrastructure-full-time-analyst-warsaw-2027/287/102767855152) | Warsaw, 78, PL |  | 2026-11-02 |
+| Citi | [Technology - Cyber Security, Full Time Analyst, Warsaw 2027](https://jobs.citi.com/job/warsaw/technology-cyber-security-full-time-analyst-warsaw-2027/287/102767853424) | Warsaw, 78, PL |  | 2026-11-02 |
 | NXP Semiconductors | [Junior Software Tools Engineer for Secure Embedded Systems (m/f/d)](https://nxp.wd3.myworkdayjobs.com/careers/job/Gratkorn/Junior-Software-Engineer--Debugger-for-Secure-Embedded-Systems--m-f-d-_R-10064606) | Gratkorn |  | 2026-11-02 |
 | EUROPEAN DYNAMICS | [Junior .NET Web Developer](https://apply.workable.com/j/880D8F230F) | Athens, Attica, Greece |  | 2026-11-02 |
 | EUROPEAN DYNAMICS | [Junior AI/ML Engineer - Python Developer](https://apply.workable.com/j/D53EAA65D5) | Athens, Attica, Greece |  | 2026-11-02 |
@@ -497,10 +507,11 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | AirHelp | [Junior IT Support Engineer](https://apply.workable.com/j/1B361D95A2) | Kraków, Lesser Poland Voivodeship, Poland |  | 2026-10-30 |
 | Fundcraft | [Junior Associate in Data Analysis & Reporting](https://apply.workable.com/j/96F2DD6A2E) | Girona, Catalonia, Spain |  | 2026-10-30 |
 | Timestamp | [Junior Java Developer](https://timestamp.teamtailor.com/jobs/8638480-junior-java-developer) | Lisboa, Portugal |  | 2026-10-29 |
-| AXA | [Berufseinstieg für Mathematiker/MINT Absolventen als Aktuar/“Pricing Data Scientist“ (m/w/](https://careers-de-axa.icims.com/jobs/29881/login) | KÖLN, Germany |  | 2026-10-29 |
+| AXA | [Berufseinstieg für Mathematiker/MINT Absolventen als Aktuar/“Pricing Data Scientist“ (m/w/](https://careers.axa.com/jobs/29881) | KÖLN, Germany |  | 2026-10-29 |
 | Axpo Systems AG | [Junior Cyber Security Engineer (w/m/d)](https://axposystemsag.teamtailor.com/jobs/8636743-junior-cyber-security-engineer-w-m-d) | Lupfig, Switzerland |  | 2026-10-29 |
 | Tieto | [Junior Software Engineer, C++ - Tieto Tech Consulting (m/f/d)](https://jobs.smartrecruiters.com/Tieto2/744000158514388) | Wrocław, Lower Silesian Voivodeship, Poland; Szczecin, West Pomeranian Voivodeship, Poland; Wroclaw, Poland |  | 2026-10-29 |
 | Playtech | [Junior Java Developer](https://jobs.smartrecruiters.com/Playtech/744000158488064) | Sofia, Bulgaria |  | 2026-10-29 |
+| IBM | [Junior Software Developer](https://careers.ibm.com/careers/JobDetail?jobId=138764) | Sofia, BG |  | 2026-10-29 |
 | Cisco | [Junior C++ Software Engineer - Serbia - ETR](https://cisco.wd5.myworkdayjobs.com/Cisco_Careers/job/Belgrade-Serbia/Junior-C---Software-Engineer---Serbia---ETR_2016195) | Belgrade, Serbia |  | 2026-10-29 |
 | Hewlett Packard Enterprise | [Junior Linux Platform System Administrator](https://hpe.wd5.myworkdayjobs.com/ACJobSite/job/Sofia-Sofia-Bulgaria/Junior-Linux-Platform-System-Administrator_1216481) | Sofia, Sofia, Bulgaria |  | 2026-10-29 |
 | Motorola | [Junior Java DevOps Engineer](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Krakow-Poland/Junior-Java-DevOps-Engineer_R70211-1) | Krakow, Poland |  | 2026-10-29 |
@@ -508,6 +519,7 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Vanderlande Industries | [Junior Software Engineer – AI Vision / Computer Vision](https://vanderlande.wd3.myworkdayjobs.com/careers/job/Barcelona-Spain/Junior-Software-Engineer---AI-Vision---Computer-Vision_JR37540-2) | Barcelona, Spain |  | 2026-10-29 |
 | Solidgate | [Junior Information Security Engineer](https://jobs.ashbyhq.com/solidgate/90c47fa1-3098-4de6-8941-be63e6db5030) | Kyiv |  | 2026-10-28 |
 | BlockTech | [Junior Quantitative Trader / Crypto Options](https://jobs.ashbyhq.com/blocktech/b62d71ac-b0c1-4383-8d9a-a687a4a723e3) | Amsterdam |  | 2026-10-28 |
+| Marsh McLennan | [Graduate / Consulting Analyst - Cyber Risk and Regulatory Compliance](https://mmc.wd1.myworkdayjobs.com/MMC/job/Lisbon---Antonio/Graduate---Consulting-Analyst---Cyber-Risk-and-Regulatory-Compliance_R_370426) | Lisbon, Portugal |  | 2026-10-28 |
 | VDK Groep B.V. | [Junior Accountmanager Software](https://vdkgroep.recruitee.com/o/junior-accountmanager-software-1) | Barendrecht, Zuid-Holland, Nederland |  | 2026-10-28 |
 | Leonardo | [CYS -  Junior Cyber Security Engineer - GCSC](https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/IT---Chieti-Scalo/CYS----Junior-Cyber-Security-Engineer---GCSC_R0032987) | IT - Chieti Scalo |  | 2026-10-28 |
 | MUFG | [Junior Data Integrity Analyst (1-year contract)](https://mufgub.wd3.myworkdayjobs.com/MUFG-Careers/job/Amsterdam/Junior-Data-Integrity-Analyst_10079857-WD) | Amsterdam |  | 2026-10-28 |
@@ -517,7 +529,7 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Almedia | [Junior Data Scientist](https://jobs.ashbyhq.com/almedia/5c6dcc91-e246-4fb3-89d0-6b90a80d8740) | Berlin | EUR 60k-85k | 2026-10-27 |
 | PA Consulting | [Junior Consultants (student) within Data, AI & Technology – start February 2027](https://jobs.smartrecruiters.com/PAConsulting/744000158048480) | Copenhagen, Denmark |  | 2026-10-27 |
 | Sia | [Junior Software Engineer](https://jobs.smartrecruiters.com/Sia/744000158018397) | Paris, IDF, France |  | 2026-10-27 |
-| Aon Corporation | [Junior Market Security Analyst](https://poland-careers-aon.icims.com/jobs/107263/login) | Krakow, Poland |  | 2026-10-27 |
+| Aon Corporation | [Junior Market Security Analyst](https://jobs.aon.com/jobs/107263) | Krakow, Poland |  | 2026-10-27 |
 | Adform | [Junior IT Systems Engineer, Databases & Infrastructure](https://careers.adform.com/jobs/8613026-junior-it-systems-engineer-databases-infrastructure) | Vilnius, Lithuania |  | 2026-10-26 |
 | MET Group | [Junior Aggregator IT Engineer](https://jobs.smartrecruiters.com/METGroup/744000157734679) | Budapest, Hungary |  | 2026-10-26 |
 | AXI Holding Services | [Junior Netwerk en Security Engineer](https://jobs.axi.be/o/junior-netwerk-en-security-engineer) | Mechelen, Antwerpen, België |  | 2026-10-26 |
@@ -533,7 +545,6 @@ Most roles this fortnight: Airbus (48), Sopra Steria (38), Schneider Electric (3
 | Experian | [Associate Machine Learning Scientist](https://jobs.smartrecruiters.com/Experian/744000157171739) | Sofia, Bulgaria |  | 2026-10-22 |
 | ABOUT YOU SE & Co. KG | [Junior Application Security Engineer (all genders)](https://jobs.smartrecruiters.com/ABOUTYOUGmbH/744000157087709) | Hamburg, HH, Germany |  | 2026-10-22 |
 | Bosch Group | [Junior Specialist Cybersecurity & OT Infrastructure (w/m/div.)](https://jobs.smartrecruiters.com/BoschGroup/744000157035339) | Linz, Oberösterreich, Austria |  | 2026-10-22 |
-| PricewaterhouseCoopers (PwC) | [Junior Cybersecurity Specialist](https://pwc.wd3.myworkdayjobs.com/Global_Experienced_Careers/job/Gdask/Junior-Cybersecurity-Specialist_741157WD) | Gdańsk |  | 2026-10-22 |
 
 ## How this list is made
 
