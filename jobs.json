@@ -2919,23 +2919,6 @@
 "ats": "workday"
 },
 {
-"company": "Microsoft",
-"title": "Cambridge Internship Program: MSRC AI Security Research",
-"location": "Cambridge, Cambridgeshire, United Kingdom",
-"_locs": [
-"Cambridge, Cambridgeshire, United Kingdom"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557070382",
-"publishedAt": "2026-11-11T16:09:48+00:00",
-"ats": "microsoft"
-},
-{
 "company": "WEP Clinical",
 "title": "IT Intern - AI & Transformation",
 "location": "Chiswick, London, UK",
@@ -3177,23 +3160,6 @@
 "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162057",
 "publishedAt": "2026-11-09",
 "ats": "oracle"
-},
-{
-"company": "Microsoft",
-"title": "Software Engineer Internship Opportunities",
-"location": "Dublin, Dublin, Ireland",
-"_locs": [
-"Dublin, Dublin, Ireland"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557038773",
-"publishedAt": "2026-11-08T11:33:43+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Apple",
@@ -3941,23 +3907,6 @@
 "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173",
 "publishedAt": "2026-11-02",
 "ats": "workday"
-},
-{
-"company": "Microsoft",
-"title": "Cambridge Internship Program Azure Research, Security and Privacy",
-"location": "Cambridge, Cambridgeshire, United Kingdom",
-"_locs": [
-"Cambridge, Cambridgeshire, United Kingdom"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557050102",
-"publishedAt": "2026-10-30T09:09:06+00:00",
-"ats": "microsoft"
 }
 ],
 "Europe": [

@@ -2,13 +2,13 @@
 
 Software engineering, data, ML, security and hardware internships, working-student roles and graduate jobs in the UK, Ireland and the rest of Europe, from 20,000+ company career pages. Nobody curates it by hand, so it doesn't wait for pull requests.
 
-**516 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. Worldwide lists: [New-Grad-and-Internships-2027](https://github.com/jordan-belfort-ai/New-Grad-and-Internships-2027).
+**513 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. Worldwide lists: [New-Grad-and-Internships-2027](https://github.com/jordan-belfort-ai/New-Grad-and-Internships-2027).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/European-Tech-Internships-2027/
 
-Contents: [Internships: UK & Ireland](#internships-uk--ireland) (65) · [Internships: Europe](#internships-europe) (303) · [New grad: UK & Ireland](#new-grad-uk--ireland) (39) · [New grad: Europe](#new-grad-europe) (109)
+Contents: [Internships: UK & Ireland](#internships-uk--ireland) (62) · [Internships: Europe](#internships-europe) (303) · [New grad: UK & Ireland](#new-grad-uk--ireland) (39) · [New grad: Europe](#new-grad-europe) (109)
 
 Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch Group (27), Amazon (17), EUROPEAN DYNAMICS (15), Barclays (14), PA Consulting (12), Jane Street (12), Thermo Fisher Scientific (10), Schneider Electric (10), ASML (9).
 
@@ -24,7 +24,6 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 | Honeywell | [Intern Masters AI (m/f/d)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161883) 🆕 | Dublin, Co. Dublin, Ireland |  | 2026-11-12 |
 | Roche | [AI & Digitalisation Intern/Graduate PSD](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162) 🆕 | Welwyn |  | 2026-11-12 |
 | Visa | [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) 🆕 | GB - Reading, United Kingdom; GB - Cambridge, United Kingdom; GB - London, United Kingdom |  | 2026-11-12 |
-| Microsoft | [Cambridge Internship Program: MSRC AI Security Research](https://apply.careers.microsoft.com/careers/job/1970393557070382) 🆕 | Cambridge, Cambridgeshire, United Kingdom |  | 2026-11-11 |
 | WEP Clinical | [IT Intern - AI & Transformation](https://jobs.lever.co/wepclinical/8d3a77c2-5606-4d32-8532-7dbb1abde1d2) 🆕 | Chiswick, London, UK |  | 2026-11-11 |
 | Siemens Healthineers | [R&D Electronics & Software Engineering Intern](https://careers.siemens-healthineers.com/global/en/job/P-101354) 🆕 | Bicester, England, United Kingdom |  | 2026-11-11 |
 | Amazon | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) | London, GB |  | 2026-11-11 |
@@ -38,7 +37,6 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 | Addepar | [Software Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/addepar1/jobs/8927507002) | Edinburgh, UK |  | 2026-11-10 |
 | PA Consulting | [2027 Summer Internship - Applied Scientist - Cambridge](https://jobs.smartrecruiters.com/PAConsulting/744000160850179) | Melbourn, United Kingdom |  | 2026-11-10 |
 | Honeywell | [Intern Software Engineer](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/162057) | North Ryde, New South Wales, Australia |  | 2026-11-09 |
-| Microsoft | [Software Engineer Internship Opportunities](https://apply.careers.microsoft.com/careers/job/1970393557038773) | Dublin, Dublin, Ireland |  | 2026-11-08 |
 | Apple | [Intern - Software Automation Engineer](https://jobs.apple.com/en-us/details/200693668/intern-software-automation-engineer) | Cork, Ireland |  | 2026-11-06 |
 | Amazon | [Data Centre Support Engineer Apprentice - London and Surrounding Areas (18-months Fixed Te](https://www.amazon.jobs/en/jobs/10598580/data-centre-support-engineer-apprentice-london-and-surrounding-areas-18-months-fixed-term-contract) | Hemel Hempstead, GB |  | 2026-11-06 |
 | Amazon | [DevOps Apprentice - Thames Valley Locations (24 Months Fixed Term Contract)](https://www.amazon.jobs/en/jobs/10598582/devops-apprentice-thames-valley-locations-24-months-fixed-term-contract) | Thames Valley, POST-BER, GB |  | 2026-11-06 |
@@ -80,7 +78,6 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 | Barclays | [2027 Technology Developer Degree Apprenticeship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431) | Northampton, Barclays Campus, Pavilion Drive |  | 2026-11-02 |
 | Barclays | [2027 Technology Developer Degree Apprenticeship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443) | Knutsford, Radbroke Hall |  | 2026-11-02 |
 | Barclays | [2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) | Knutsford, Radbroke Hall |  | 2026-11-02 |
-| Microsoft | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) | Cambridge, Cambridgeshire, United Kingdom |  | 2026-10-30 |
 
 ## Internships: Europe
 
