@@ -225,7 +225,7 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 | IMS Nanofabrication GmbH | [Werkstudent:in eSource Data Analytics (all genders)](https://jobs.smartrecruiters.com/IMSNanofabricationGmbH/744000160606061) | Brunn am Gebirge, Niederösterreich, Austria |  | 2026-11-09 |
 | Octopus Energy Group | [IT Support Junior (Prácticas)](https://jobs.lever.co/octoenergy/ca44ddbd-fcec-40ea-928a-a8ffb20f847e) | Valencia (ES) |  | 2026-11-09 |
 | Groupement Mousquetaires | [Assistant web communication H/F - Alternance](https://jobs.smartrecruiters.com/GroupementMousquetaires3/744000160583294) | Vert-le-Grand, IDF, France |  | 2026-11-09 |
-| Microsoft | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) | Schiphol, Noord-Holland, Netherlands; Germany |  | 2026-11-09 |
+| Microsoft | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) | Germany; Schiphol, Noord-Holland, Netherlands |  | 2026-11-09 |
 | Keysight Technologies, Inc. | [R&D Internship for Engineering Students – 6G and AI Focus](https://jobs.keysight.com/jobs/56455) | Milano, Italy |  | 2026-11-09 |
 | Keysight Technologies, Inc. | [Machine Learning — PhD Intern (Variable Circuit, Place-and-Route, and Layout Representatio](https://jobs.keysight.com/jobs/55050) | Barcelona, Spain |  | 2026-11-09 |
 | OTTO FUCHS KG | [Werkstudent IT Workplace Services (m/w/x)](https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000160566794) | Meinerzhagen, NRW, Germany |  | 2026-11-09 |
