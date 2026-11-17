@@ -4,6 +4,23 @@
 "newgrad": {
 "UK & Ireland": [
 {
+"company": "Amazon",
+"title": "Network Development Engineer I, MONA",
+"location": "Dublin, D, IE",
+"_locs": [
+"Dublin, D, IE"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.amazon.jobs/en/jobs/10606722/network-development-engineer-i-mona",
+"publishedAt": "2026-11-17T00:00:00+00:00",
+"ats": "amazon"
+},
+{
 "company": "Capgemini",
 "title": "Graduate Software Engineering Programme September 2027",
 "location": "Telford, GB",
@@ -1433,6 +1450,23 @@
 "ats": "smartrecruiters"
 },
 {
+"company": "Microsoft",
+"title": "Cloud Solution Architect - Entry Level",
+"location": "Bucharest, Bucharest, Romania",
+"_locs": [
+"Bucharest, Bucharest, Romania"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557054132",
+"publishedAt": "2026-11-09T11:34:25+00:00",
+"ats": "microsoft"
+},
+{
 "company": "QuantWare",
 "title": "Junior Quantum Design Engineer",
 "location": "Delft",
@@ -2751,6 +2785,23 @@
 "intern": {
 "UK & Ireland": [
 {
+"company": "Amazon",
+"title": "Ring - ASIC DV Engineer Intern",
+"location": "Cambridge, GB",
+"_locs": [
+"Cambridge, GB"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern",
+"publishedAt": "2026-11-17T00:00:00+00:00",
+"ats": "amazon"
+},
+{
 "company": "Molson Coors",
 "title": "Data Insights Apprentice",
 "location": "Burton on Trent, GB-STS, United Kingdom",
@@ -2900,6 +2951,23 @@
 "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W",
 "publishedAt": "2026-11-12",
 "ats": "workday"
+},
+{
+"company": "Microsoft",
+"title": "Cambridge Internship Program: MSRC AI Security Research",
+"location": "Cambridge, Cambridgeshire, United Kingdom",
+"_locs": [
+"Cambridge, Cambridgeshire, United Kingdom"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557070382",
+"publishedAt": "2026-11-11T16:09:48+00:00",
+"ats": "microsoft"
 },
 {
 "company": "WEP Clinical",
@@ -3228,23 +3296,6 @@
 "salaryCurrency": null,
 "salaryInterval": null,
 "url": "https://www.amazon.jobs/en/jobs/10598611/software-development-engineer-apprentice-48-month-fixed-term-contract",
-"publishedAt": "2026-11-06T00:00:00+00:00",
-"ats": "amazon"
-},
-{
-"company": "Amazon",
-"title": "IT Apprentice - 18 month Fixed Term Contract",
-"location": "London, GB",
-"_locs": [
-"London, GB"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://www.amazon.jobs/en/jobs/10598586/it-apprentice-18-month-fixed-term-contract",
 "publishedAt": "2026-11-06T00:00:00+00:00",
 "ats": "amazon"
 },
@@ -3890,6 +3941,23 @@
 "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173",
 "publishedAt": "2026-11-02",
 "ats": "workday"
+},
+{
+"company": "Microsoft",
+"title": "Cambridge Internship Program Azure Research, Security and Privacy",
+"location": "Cambridge, Cambridgeshire, United Kingdom",
+"_locs": [
+"Cambridge, Cambridgeshire, United Kingdom"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557050102",
+"publishedAt": "2026-10-30T09:09:06+00:00",
+"ats": "microsoft"
 }
 ],
 "Europe": [
@@ -6518,6 +6586,24 @@
 "url": "https://jobs.smartrecruiters.com/GroupementMousquetaires3/744000160583294",
 "publishedAt": "2026-11-09T11:03:24.543Z",
 "ats": "smartrecruiters"
+},
+{
+"company": "Microsoft",
+"title": "Cloud Solution Architecture INTERN",
+"location": "Schiphol, Noord-Holland, Netherlands",
+"_locs": [
+"Schiphol, Noord-Holland, Netherlands",
+"Germany"
+],
+"allLocations": null,
+"remote": null,
+"salaryMin": null,
+"salaryMax": null,
+"salaryCurrency": null,
+"salaryInterval": null,
+"url": "https://apply.careers.microsoft.com/careers/job/1970393557041284",
+"publishedAt": "2026-11-09T10:58:45+00:00",
+"ats": "microsoft"
 },
 {
 "company": "Keysight Technologies, Inc.",
