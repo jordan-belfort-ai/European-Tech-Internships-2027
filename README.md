@@ -2,15 +2,15 @@
 
 Software engineering, data, ML, security and hardware internships, working-student roles and graduate jobs in the UK, Ireland and the rest of Europe, from 20,000+ company career pages. Nobody curates it by hand, so it doesn't wait for pull requests.
 
-**516 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. Worldwide lists: [New-Grad-and-Internships-2027](https://github.com/jordan-belfort-ai/New-Grad-and-Internships-2027).
+**510 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. Worldwide lists: [New-Grad-and-Internships-2027](https://github.com/jordan-belfort-ai/New-Grad-and-Internships-2027).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/European-Tech-Internships-2027/
 
-Contents: [Internships: UK & Ireland](#internships-uk--ireland) (64) · [Internships: Europe](#internships-europe) (303) · [New grad: UK & Ireland](#new-grad-uk--ireland) (40) · [New grad: Europe](#new-grad-europe) (109)
+Contents: [Internships: UK & Ireland](#internships-uk--ireland) (62) · [Internships: Europe](#internships-europe) (300) · [New grad: UK & Ireland](#new-grad-uk--ireland) (40) · [New grad: Europe](#new-grad-europe) (108)
 
-Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch Group (27), Amazon (19), EUROPEAN DYNAMICS (15), Barclays (14), PA Consulting (12), Jane Street (12), Thermo Fisher Scientific (10), Schneider Electric (10), ASML (9).
+Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch Group (27), Amazon (18), EUROPEAN DYNAMICS (15), Barclays (14), PA Consulting (12), Jane Street (12), Thermo Fisher Scientific (10), Schneider Electric (10), ASML (9).
 
 ## Internships: UK & Ireland
 
@@ -25,7 +25,6 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 | Honeywell | [Intern Masters AI (m/f/d)](https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/161883) 🆕 | Dublin, Co. Dublin, Ireland |  | 2026-11-12 |
 | Roche | [AI & Digitalisation Intern/Graduate PSD](https://roche.wd3.myworkdayjobs.com/roche-ext/job/Welwyn/AI---Digitalisation-Intern-Graduate-PSD_202610-127162) 🆕 | Welwyn |  | 2026-11-12 |
 | Visa | [Software Engineer Intern](https://visa.wd5.myworkdayjobs.com/Visa/job/GB---Reading-United-Kingdom/Software-Engineer-Intern_REF090466W) 🆕 | GB - Reading, United Kingdom; GB - Cambridge, United Kingdom; GB - London, United Kingdom |  | 2026-11-12 |
-| Microsoft | [Cambridge Internship Program: MSRC AI Security Research](https://apply.careers.microsoft.com/careers/job/1970393557070382) 🆕 | Cambridge, Cambridgeshire, United Kingdom |  | 2026-11-11 |
 | WEP Clinical | [IT Intern - AI & Transformation](https://jobs.lever.co/wepclinical/8d3a77c2-5606-4d32-8532-7dbb1abde1d2) 🆕 | Chiswick, London, UK |  | 2026-11-11 |
 | Siemens Healthineers | [R&D Electronics & Software Engineering Intern](https://careers.siemens-healthineers.com/global/en/job/P-101354) 🆕 | Bicester, England, United Kingdom |  | 2026-11-11 |
 | Amazon | [Data Engineer Internship](https://www.amazon.jobs/en/jobs/10602219/data-engineer-internship) | London, GB |  | 2026-11-11 |
@@ -79,7 +78,6 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 | Barclays | [2027 Technology Developer Degree Apprenticeship Programme Northampton](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Northampton_JR-0000129431) | Northampton, Barclays Campus, Pavilion Drive |  | 2026-11-02 |
 | Barclays | [2027 Technology Developer Degree Apprenticeship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Degree-Apprenticeship-Programme-Knutsford_JR-0000129443) | Knutsford, Radbroke Hall |  | 2026-11-02 |
 | Barclays | [2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) | Knutsford, Radbroke Hall |  | 2026-11-02 |
-| Microsoft | [Cambridge Internship Program Azure Research, Security and Privacy](https://apply.careers.microsoft.com/careers/job/1970393557050102) | Cambridge, Cambridgeshire, United Kingdom |  | 2026-10-30 |
 
 ## Internships: Europe
 
@@ -122,7 +120,6 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 | Thermo Fisher Scientific | [Intern – Software Test](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Test_R-01374071-1) 🆕 | Brno, Czechia |  | 2026-11-12 |
 | Thermo Fisher Scientific | [Intern – Software Development](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Intern---Software-Development_R-01374072) 🆕 | Brno, Czechia |  | 2026-11-12 |
 | Thermo Fisher Scientific | [Internship: GenAI-Assisted Software Modernization](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Eindhoven-Netherlands/Internship--GenAI-Assisted-Software-Modernization_R-01374113-1) 🆕 | Eindhoven, Netherlands |  | 2026-11-12 |
-| Amazon | [2027 Software Dev Engineer Intern - Finland](https://www.amazon.jobs/en/jobs/10603649/2027-software-dev-engineer-intern-finland) 🆕 | Tampere, FI |  | 2026-11-12 |
 | HEMERIA | [Stage: Développeur Logiciel (F/H)](https://hemeriagroup.recruitee.com/o/stage-developpeur-logiciel-fh) 🆕 | 16000 Angoulême, Nouvelle-Aquitaine, France |  | 2026-11-12 |
 | HEMERIA | [Stage: Évaluation et intégration d’algorithmes de détection et suivi d’objets par deep lea](https://hemeriagroup.recruitee.com/o/stage-evaluation-et-integration-dalgorithmes-de-detection-et-suivi-dobjets-par-deep-learning-fh) 🆕 | 16000 Angoulême, Nouvelle-Aquitaine, France |  | 2026-11-12 |
 | Arcadis | [Internship - People, Data & Insights](https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/45755) 🆕 | Amsterdam, Noord-Holland, Netherlands |  | 2026-11-12 |
@@ -227,11 +224,9 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 | IMS Nanofabrication GmbH | [Werkstudent:in eSource Data Analytics (all genders)](https://jobs.smartrecruiters.com/IMSNanofabricationGmbH/744000160606061) | Brunn am Gebirge, Niederösterreich, Austria |  | 2026-11-09 |
 | Octopus Energy Group | [IT Support Junior (Prácticas)](https://jobs.lever.co/octoenergy/ca44ddbd-fcec-40ea-928a-a8ffb20f847e) | Valencia (ES) |  | 2026-11-09 |
 | Groupement Mousquetaires | [Assistant web communication H/F - Alternance](https://jobs.smartrecruiters.com/GroupementMousquetaires3/744000160583294) | Vert-le-Grand, IDF, France |  | 2026-11-09 |
-| Microsoft | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041284) | Schiphol, Noord-Holland, Netherlands; Germany |  | 2026-11-09 |
 | Keysight Technologies, Inc. | [R&D Internship for Engineering Students – 6G and AI Focus](https://jobs.keysight.com/jobs/56455) | Milano, Italy |  | 2026-11-09 |
 | Keysight Technologies, Inc. | [Machine Learning — PhD Intern (Variable Circuit, Place-and-Route, and Layout Representatio](https://jobs.keysight.com/jobs/55050) | Barcelona, Spain |  | 2026-11-09 |
 | OTTO FUCHS KG | [Werkstudent IT Workplace Services (m/w/x)](https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000160566794) | Meinerzhagen, NRW, Germany |  | 2026-11-09 |
-| Microsoft | [Silicon Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557053762) | Tampere, Satakunta, Finland |  | 2026-11-09 |
 | Bertelsmann-Jobs | [Trainee IT-AMS Energiewirtschaft (m/w/d)](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160558029) | Leipzig, Sachsen, Germany |  | 2026-11-09 |
 | Eurofins | [Chef de projet data management - Stage - F/H](https://jobs.smartrecruiters.com/Eurofins/744000160553831) | Ivry-sur-Seine, IDF, France |  | 2026-11-09 |
 | Thermo Fisher Scientific | [Sr. Systems Engineer Intern - Detection and Analytics](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Sr-Systems-Engineer-Intern---Detection-and-Analytics_R-01374034-1) | Brno, Czechia |  | 2026-11-09 |
@@ -476,7 +471,6 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 | IQVIA | [Fresh Graduate Data Analyst (Python/SQL) - French Native Speaker (Spain Remote)](https://iqvia.wd1.myworkdayjobs.com/IQVIA/job/Madrid-Spain/Fresh-Graduate-Data-Analyst--Python-SQL----French-Native-Speaker--Spain-Remote-_R1568966) | Madrid, Spain |  | 2026-11-10 |
 | Mollie | [Analytics Engineer I](https://jobs.ashbyhq.com/mollie/49a59e10-b4d9-43aa-808e-8f4a1f9172b4) | Milan |  | 2026-11-09 |
 | Scalable GmbH | [(Junior) Frontend Engineer — Broker (m/f/x)](https://jobs.smartrecruiters.com/ScalableGmbH/744000160616480) | München, BY, Germany |  | 2026-11-09 |
-| Microsoft | [Cloud Solution Architect - Entry Level](https://apply.careers.microsoft.com/careers/job/1970393557054132) | Bucharest, Bucharest, Romania |  | 2026-11-09 |
 | QuantWare | [Junior Quantum Design Engineer](https://jobs.ashbyhq.com/quantware/799ad53a-3cf7-4f7d-94b1-870fc2eaaba7) | Delft |  | 2026-11-09 |
 | CITECH | [Analyste Développeur COBOL Junior – Monétique / Autorisations (H/F)](https://jobs.smartrecruiters.com/CITECH/744000160556225) | Strasbourg, Grand Est, France |  | 2026-11-09 |
 | Axon | [Software Engineer I](https://job-boards.greenhouse.io/axon/jobs/7816769003) | Romania-Bucharest Office; Romania-Timisoara Office |  | 2026-11-09 |
