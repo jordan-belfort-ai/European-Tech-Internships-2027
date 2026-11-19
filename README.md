@@ -10,7 +10,7 @@ Every link goes to the employer's own posting, no aggregator in between. Newest 
 
 Contents: [Internships: UK & Ireland](#internships-uk--ireland) (62) · [Internships: Europe](#internships-europe) (300) · [New grad: UK & Ireland](#new-grad-uk--ireland) (40) · [New grad: Europe](#new-grad-europe) (108)
 
-Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch Group (27), Amazon (18), EUROPEAN DYNAMICS (15), Barclays (14), PA Consulting (12), Jane Street (12), Thermo Fisher Scientific (10), Schneider Electric (10), ASML (9).
+Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch Group (27), Amazon (15), EUROPEAN DYNAMICS (15), Barclays (14), PA Consulting (12), Jane Street (12), Thermo Fisher Scientific (10), Schneider Electric (10), ASML (9).
 
 ## Internships: UK & Ireland
 
