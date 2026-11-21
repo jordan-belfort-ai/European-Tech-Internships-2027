@@ -2768,23 +2768,6 @@
 "intern": {
 "UK & Ireland": [
 {
-"company": "Microsoft",
-"title": "Research Intern - Machine Learning for Biology and Healthcare",
-"location": "Cambridge, Cambridgeshire, United Kingdom",
-"_locs": [
-"Cambridge, Cambridgeshire, United Kingdom"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557075448",
-"publishedAt": "2026-11-19T12:34:46+00:00",
-"ats": "microsoft"
-},
-{
 "company": "Amazon",
 "title": "Ring - ASIC DV Engineer Intern",
 "location": "Cambridge, GB",
@@ -3927,23 +3910,6 @@
 }
 ],
 "Europe": [
-{
-"company": "Microsoft",
-"title": "Software Engineering INTERN",
-"location": "Stuttgart, Baden-Württemberg, Germany",
-"_locs": [
-"Stuttgart, Baden-Württemberg, Germany"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557076037",
-"publishedAt": "2026-11-19T20:57:49+00:00",
-"ats": "microsoft"
-},
 {
 "company": "Capgemini",
 "title": "Développeuse / Développeur Full Stack - Stage",
@@ -6607,40 +6573,6 @@
 "url": "https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000160566794",
 "publishedAt": "2026-11-09T09:43:33.885Z",
 "ats": "smartrecruiters"
-},
-{
-"company": "Microsoft",
-"title": "Cloud Solution Architecture INTERN",
-"location": "Germany",
-"_locs": [
-"Germany"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557041287",
-"publishedAt": "2026-11-09T09:38:44+00:00",
-"ats": "microsoft"
-},
-{
-"company": "Microsoft",
-"title": "Silicon Engineering INTERN",
-"location": "Tampere, Satakunta, Finland",
-"_locs": [
-"Tampere, Satakunta, Finland"
-],
-"allLocations": null,
-"remote": null,
-"salaryMin": null,
-"salaryMax": null,
-"salaryCurrency": null,
-"salaryInterval": null,
-"url": "https://apply.careers.microsoft.com/careers/job/1970393557053762",
-"publishedAt": "2026-11-09T09:04:50+00:00",
-"ats": "microsoft"
 },
 {
 "company": "Bertelsmann-Jobs",

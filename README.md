@@ -2,13 +2,13 @@
 
 Software engineering, data, ML, security and hardware internships, working-student roles and graduate jobs in the UK, Ireland and the rest of Europe, from 20,000+ company career pages. Nobody curates it by hand, so it doesn't wait for pull requests.
 
-**514 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. Worldwide lists: [New-Grad-and-Internships-2027](https://github.com/jordan-belfort-ai/New-Grad-and-Internships-2027).
+**510 roles**, posted in the last 14 days, read straight from employer career pages (Greenhouse, Lever, Ashby, Workday, SmartRecruiters, Workable, iCIMS, Oracle, SuccessFactors and more). Rebuilt every day from an index of ~1.3M postings; this build 2026-11-13 00:16 UTC. Worldwide lists: [New-Grad-and-Internships-2027](https://github.com/jordan-belfort-ai/New-Grad-and-Internships-2027).
 
 How it differs from hand-kept lists: nobody picks the companies. Every board in the index is read every day (20,000+ employers, from startups to NVIDIA and Boeing), outside the US too, so smaller employers and non-US roles show up the day they're posted. The whole list is also a JSON feed: [jobs.json](jobs.json).
 
 Every link goes to the employer's own posting, no aggregator in between. Newest first, at most 6 roles per company per region; one role open in several cities is one row. 🆕 = posted in the last 2 days. Searchable version: https://jordan-belfort-ai.github.io/European-Tech-Internships-2027/
 
-Contents: [Internships: UK & Ireland](#internships-uk--ireland) (63) · [Internships: Europe](#internships-europe) (303) · [New grad: UK & Ireland](#new-grad-uk--ireland) (40) · [New grad: Europe](#new-grad-europe) (108)
+Contents: [Internships: UK & Ireland](#internships-uk--ireland) (62) · [Internships: Europe](#internships-europe) (300) · [New grad: UK & Ireland](#new-grad-uk--ireland) (40) · [New grad: Europe](#new-grad-europe) (108)
 
 Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch Group (27), Amazon (15), EUROPEAN DYNAMICS (15), Barclays (14), PA Consulting (12), Jane Street (12), Thermo Fisher Scientific (10), Schneider Electric (10), ASML (9).
 
@@ -16,7 +16,6 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Microsoft | [Research Intern - Machine Learning for Biology and Healthcare](https://apply.careers.microsoft.com/careers/job/1970393557075448) 🆕 | Cambridge, Cambridgeshire, United Kingdom |  | 2026-11-19 |
 | Amazon | [Ring - ASIC DV Engineer Intern](https://www.amazon.jobs/en/jobs/10606931/ring-asic-dv-engineer-intern) 🆕 | Cambridge, GB |  | 2026-11-17 |
 | Molson Coors | [Data Insights Apprentice](https://careers.molsoncoors.com/us/en/job/40190) 🆕 | Burton on Trent, GB-STS, United Kingdom |  | 2026-11-12 |
 | Smiths Group | [Data Analyst Apprentice](https://jobs.smartrecruiters.com/SmithsGroup2/744000161324881) 🆕 | Slough, England, United Kingdom |  | 2026-11-12 |
@@ -84,7 +83,6 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 
 | Company | Role | Location | Salary | Posted |
 | --- | --- | --- | --- | --- |
-| Microsoft | [Software Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557076037) 🆕 | Stuttgart, Baden-Württemberg, Germany |  | 2026-11-19 |
 | Capgemini | [Développeuse / Développeur Full Stack - Stage](https://careers.capgemini.com/job/Cesson-Sevigne-D%C3%A9veloppeuse-D%C3%A9veloppeur-Full-Stack-Stage/1436099233/) 🆕 | Cesson Sevigne, FR; Aix-en-Provence, FR; Lille, FR +5 more |  | 2026-11-13 |
 | Capgemini | [Ingénieure / Ingénieur Cybersécurité GRC - Stage](https://careers.capgemini.com/job/Toulouse-Ing%C3%A9nieure-Ing%C3%A9nieur-Cybers%C3%A9curit%C3%A9-GRC-Stage/1437277733/) 🆕 | Toulouse, FR; Lille, FR; Merignac, FR +1 more |  | 2026-11-13 |
 | Capgemini | [Développeuse / Développeur PHP - Stage](https://careers.capgemini.com/job/Nantes-D%C3%A9veloppeuse-D%C3%A9veloppeur-PHP-Stage/1441515933/) 🆕 | Nantes, FR |  | 2026-11-13 |
@@ -229,8 +227,6 @@ Most roles this fortnight: Capgemini (49), Airbus (40), Sopra Steria (30), Bosch
 | Keysight Technologies, Inc. | [R&D Internship for Engineering Students – 6G and AI Focus](https://jobs.keysight.com/jobs/56455) | Milano, Italy |  | 2026-11-09 |
 | Keysight Technologies, Inc. | [Machine Learning — PhD Intern (Variable Circuit, Place-and-Route, and Layout Representatio](https://jobs.keysight.com/jobs/55050) | Barcelona, Spain |  | 2026-11-09 |
 | OTTO FUCHS KG | [Werkstudent IT Workplace Services (m/w/x)](https://jobs.smartrecruiters.com/OTTOFUCHSKG/744000160566794) | Meinerzhagen, NRW, Germany |  | 2026-11-09 |
-| Microsoft | [Cloud Solution Architecture INTERN](https://apply.careers.microsoft.com/careers/job/1970393557041287) | Germany |  | 2026-11-09 |
-| Microsoft | [Silicon Engineering INTERN](https://apply.careers.microsoft.com/careers/job/1970393557053762) | Tampere, Satakunta, Finland |  | 2026-11-09 |
 | Bertelsmann-Jobs | [Trainee IT-AMS Energiewirtschaft (m/w/d)](https://jobs.smartrecruiters.com/Bertelsmann-Jobs/744000160558029) | Leipzig, Sachsen, Germany |  | 2026-11-09 |
 | Eurofins | [Chef de projet data management - Stage - F/H](https://jobs.smartrecruiters.com/Eurofins/744000160553831) | Ivry-sur-Seine, IDF, France |  | 2026-11-09 |
 | Thermo Fisher Scientific | [Sr. Systems Engineer Intern - Detection and Analytics](https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Brno-Czechia/Sr-Systems-Engineer-Intern---Detection-and-Analytics_R-01374034-1) | Brno, Czechia |  | 2026-11-09 |
